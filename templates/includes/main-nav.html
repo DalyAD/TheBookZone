@@ -17,16 +17,16 @@
                 Popular
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="books-link">
-                <a href="" class="dropdown-item">Fiction</a>
-                <a href="" class="dropdown-item">Non-Fiction</a>
-                <a href="" class="dropdown-item">True Crime</a>
-                <a href="" class="dropdown-item">Adventure</a>
-                <a href="" class="dropdown-item">Fantasy</a>
-                <a href="" class="dropdown-item">Autobiography</a>
-                <a href="" class="dropdown-item">History</a>
-                <a href="" class="dropdown-item">Religion</a>
-                <a href="" class="dropdown-item">Romance</a>
-                <a href="" class="dropdown-item">All Books</a>
+                <a href="{% url 'books' %}?category=fiction" class="dropdown-item">Fiction</a>
+                <a href="{% url 'books' %}?category=non_fiction" class="dropdown-item">Non-Fiction</a>
+                <a href="{% url 'books' %}?category=true_crime" class="dropdown-item">True Crime</a>
+                <a href="{% url 'books' %}?category=adventure" class="dropdown-item">Adventure</a>
+                <a href="{% url 'books' %}?category=fantasy" class="dropdown-item">Fantasy</a>
+                <a href="{% url 'books' %}?category=Autobiography" class="dropdown-item">Autobiography</a>
+                <a href="{% url 'books' %}?category=History" class="dropdown-item">History</a>
+                <a href="{% url 'books' %}?category=Religion" class="dropdown-item">Religion</a>
+                <a href="{% url 'books' %}?category=Romance" class="dropdown-item">Romance</a>
+                <a href="{% url 'books' %}?category=fiction,non_fiction,true_crime,adventure,fantasy,Autobiography,History,Religion,Romance" class="dropdown-item">All Books</a>
             </div>
         </li>
 
