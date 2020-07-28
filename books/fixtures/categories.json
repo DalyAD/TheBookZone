@@ -1,0 +1,52 @@
+[
+  {
+    "pk": 1,
+    "model": "books.category",
+    "fields": {"name": "fiction", "friendly_name": "Fiction"}
+  },
+  {
+    "pk": 2,
+    "model": "books.category",
+    "fields": {"name": "non_fiction", "friendly_name": "Non-Fiction"}
+  },
+  {
+    "pk": 3,
+    "model": "books.category",
+    "fields": {"name": "adventure", "friendly_name": "Adventure"}
+  },
+  {
+    "pk": 4,
+    "model": "books.category",
+    "fields": {"name": "fantasy", "friendly_name": "Fantasy"}
+  },
+  {
+    "pk": 5,
+    "model": "books.category",
+    "fields": {"name": "true_crime", "friendly_name": "True crime"}
+  },
+  {
+    "pk": 6,
+    "model": "books.category",
+    "fields": {"name": "romance", "friendly_name": "Romance"}
+  },
+  {
+    "pk": 7,
+    "model": "books.category",
+    "fields": {"name": "autobiography", "friendly_name": "autobiography"}
+  },
+  {
+    "pk": 8,
+    "model": "books.category",
+    "fields": {"name": "religion", "friendly_name": "Religion"}
+  },
+  {
+    "pk": 9,
+    "model": "books.category",
+    "fields": {"name": "history", "friendly_name": "History"}
+  },
+  {
+    "pk": 10,
+    "model": "books.category",
+    "fields": {"name": "miscellaneous", "friendly_name": "Miscellaneous"}
+  }
+]

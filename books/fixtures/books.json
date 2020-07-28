@@ -1,0 +1,2719 @@
+[
+  {
+    "pk": 1,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780002005883,
+      "isbn10": "0002005883",
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "category": 1,
+      "image": "1.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=KQZCPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A NOVEL THAT READERS and critics have been eagerly anticipating for over a decade, Gilead is an astonishingly imagined story of remarkable lives. John Ames is a preacher, the son of a preacher and the grandson (both maternal and paternal) of preachers. It’s 1956 in Gilead, Iowa, towards the end of the Reverend Ames’s life, and he is absorbed in recording his family’s story, a legacy for the young son he will never see grow up. Haunted by his grandfather’s presence, John tells of the rift between his grandfather and his father: the elder, an angry visionary who fought for the abolitionist cause, and his son, an ardent pacifist. He is troubled, too, by his prodigal namesake, Jack (John Ames) Boughton, his best friend’s lost son who returns to Gilead searching for forgiveness and redemption. Told in John Ames’s joyous, rambling voice that finds beauty, humour and truth in the smallest of life’s details, Gilead is a song of celebration and acceptance of the best and the worst the world has to offer. At its heart is a tale of the sacred bonds between fathers and sons, pitch-perfect in style and story, set to dazzle critics and readers alike.",
+      "published_year": 2004,
+      "rating": 3.85,
+      "num_pages": 247,
+      "ratings_count": 361
+    }
+  },
+  {
+    "pk": 2,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780002261982,
+      "isbn10": "0002261987",
+      "title": "Spider's Web",
+      "author": "Charles Osborne;Agatha Christie",
+      "category": 5,
+      "image": "2.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=gA5GPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A new 'Christie for Christmas' -- a full-length novel adapted from her acclaimed play by Charles Osborne Following BLACK COFFEE and THE UNEXPECTED GUEST comes the final Agatha Christie play novelisation, bringing her superb storytelling to a new legion of fans. Clarissa, the wife of a Foreign Office diplomat, is given to daydreaming. 'Supposing I were to come down one morning and find a dead body in the library, what should I do?' she muses. Clarissa has her chance to find out when she discovers a body in the drawing-room of her house in Kent. Desperate to dispose of the body before her husband comes home with an important foreign politician, Clarissa persuades her three house guests to become accessories and accomplices. It seems that the murdered man was not unknown to certain members of the house party (but which ones?), and the search begins for the murderer and the motive, while at the same time trying to persuade a police inspector that there has been no murder at all... SPIDER'S WEB was written in 1954 specifically for Margaret Lockwood and opened first at the Theatre Royal Nottingham before moving to the Savoy Theatre in London on 14 December 1954. With THE MOUSETRAP and WI",
+      "published_year": 2000,
+      "rating": 3.83,
+      "num_pages": 241,
+      "ratings_count": 5164
+    }
+  },
+  {
+    "pk": 3,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006163831,
+      "isbn10": "0006163831",
+      "title": "The One Tree",
+      "author": "Stephen R. Donaldson",
+      "category": 1,
+      "image": "3.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=OmQawwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Volume Two of Stephen Donaldson's acclaimed second trilogy featuing the compelling anti-hero Thomas Covenant.",
+      "published_year": 1982,
+      "rating": 3.97,
+      "num_pages": 479,
+      "ratings_count": 172
+    }
+  },
+  {
+    "pk": 4,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006178736,
+      "isbn10": "0006178731",
+      "title": "Rage of angels",
+      "author": "Sidney Sheldon",
+      "category": 1,
+      "image": "4.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=FKo2TgANz74C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A memorable, mesmerizing heroine Jennifer -- brilliant, beautiful, an attorney on the way up until the Mafia's schemes win her the hatred of an implacable enemy -- and a love more destructive than hate. A dangerous, Fictiontic world The Dark Arena of organized crime and flashbulb lit courtrooms where ambitious prosecutors begin their climb to political power.",
+      "published_year": 1993,
+      "rating": 3.93,
+      "num_pages": 512,
+      "ratings_count": 29532
+    }
+  },
+  {
+    "pk": 5,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006280897,
+      "isbn10": "0006280897",
+      "title": "The Four Loves",
+      "author": "Clive Staples Lewis",
+      "category": 8,
+      "image": "5.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=XhQ5XsFcpGIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Lewis' work on the nature of love divides love into four categories; Affection, Friendship, Eros and Charity. The first three come naturally to humanity. Charity, however, the Gift-love of God, is divine, and without this supernatural love, the natural loves become distorted and even dangerous.",
+      "published_year": 2002,
+      "rating": 4.15,
+      "num_pages": 170,
+      "ratings_count": 33684
+    }
+  },
+  {
+    "pk": 6,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006280934,
+      "isbn10": "0006280935",
+      "title": "The Problem of Pain",
+      "author": "Clive Staples Lewis",
+      "category": 8,
+      "image": "6.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Kk-uVe5QK-gC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "\"In The Problem of Pain, C.S. Lewis, one of the most renowned Christian authors and thinkers, examines a universally applicable question within the human condition: If God is good and all-powerful, why does he allow his creatures to suffer pain? With his signature wealth of compassion and insight, C.S. Lewis offers answers to these crucial questions and shares his hope and wisdom to help heal a world hungering for a true understanding of human nature.\"--Amazon.",
+      "published_year": 2002,
+      "rating": 4.09,
+      "num_pages": 176,
+      "ratings_count": 37569
+    }
+  },
+  {
+    "pk": 7,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006353287,
+      "isbn10": "0006353282",
+      "title": "An Autobiography",
+      "author": "Agatha Christie",
+      "category": 7,
+      "image": "7.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=c49GQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Donation.",
+      "published_year": 1977,
+      "rating": 4.27,
+      "num_pages": 560,
+      "ratings_count": 3975
+    }
+  },
+  {
+    "pk": 8,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006380832,
+      "isbn10": "0006380832",
+      "title": "Empires of the Monsoon",
+      "author": "Richard Hall",
+      "category": 9,
+      "image": "8.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=MuPEQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Until Vasco da Gama discovered the sea-route to the East in 1497-9 almost nothing was known in the West of the exotic cultures and wealth of the Indian Ocean and its peoples. It is this civilization and its destruction at the hands of the West that Richard Hall recreates in this book. Hall's history of the exploration and exploitation by Chinese and Arab Miscellaneouslers, and by the Portuguese, Dutch and British alike is one of brutality, betrayal and colonial ambition.",
+      "published_year": 1998,
+      "rating": 4.41,
+      "num_pages": 608,
+      "ratings_count": 65
+    }
+  },
+  {
+    "pk": 9,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006470229,
+      "isbn10": "000647022X",
+      "title": "The Gap Into Madness",
+      "author": "Stephen R. Donaldson",
+      "category": 1,
+      "image": "9.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=4oXavLNDWocC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A new-cover reissue of the fourth book in the bestselling five-volume sf series created by the world-famous author of the Thomas Covenant chronicles -- and acclaimed as the 'best work of his career'. Events were not moving as the Amnion had intended. Once again humans had been false in their dealings with the aliens. As the planetoid Thanatos Minor exploded into atoms, the Trumpet hurtled into space only one step ahead of hostile pursuers. On board were Morn Hyland and her force-grown son Davies, cyborg Angus Thermopyle and Captain Nick Succorso -- old enemies thrown together in a desperate bid for survival. For both the Amnion and the UMCP, the immediate capture of the fleeing ship and the secrets it contained was imperative. But for Trumpet's exhausted crew the only hope lay in an illegal lab in the distant binary solar system of Valdor Industrial. It would be a journey of unpredictable danger -- from which not all would return...",
+      "published_year": 1994,
+      "rating": 4.15,
+      "num_pages": 743,
+      "ratings_count": 103
+    }
+  },
+  {
+    "pk": 10,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006472612,
+      "isbn10": "0006472613",
+      "title": "Master of the Game",
+      "author": "Sidney Sheldon",
+      "category": 3,
+      "image": "10.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=TkTYp-Tp6_IC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Kate Blackwell is an enigma and one of the most powerful women in the world. But at her ninetieth birthday celebrations there are ghosts of absent friends and absent enemies.",
+      "published_year": 1982,
+      "rating": 4.11,
+      "num_pages": 489,
+      "ratings_count": 43540
+    }
+  },
+  {
+    "pk": 11,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006479673,
+      "isbn10": "0006479677",
+      "title": "If Tomorrow Comes",
+      "author": "Sidney Sheldon",
+      "category": 3,
+      "image": "11.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=l2tBi_jLuk8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "One of Sidney Sheldon's most popular and bestselling titles, repackaged and reissued for a new generation of fans.",
+      "published_year": 1994,
+      "rating": 4.04,
+      "num_pages": 501,
+      "ratings_count": 49170
+    }
+  },
+  {
+    "pk": 12,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006480099,
+      "isbn10": "0006480098",
+      "title": "Assassin's Apprentice",
+      "author": "Robin Hobb",
+      "category": 1,
+      "image": "12.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=qTaGQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Fantasy-roman.",
+      "published_year": 1996,
+      "rating": 4.15,
+      "num_pages": 460,
+      "ratings_count": 133972
+    }
+  },
+  {
+    "pk": 13,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006482079,
+      "isbn10": "0006482074",
+      "title": "Warhost of Vastmark",
+      "author": "Janny Wurts",
+      "category": 1,
+      "image": "13.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=uOL0fpS9WZkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Tricked once more by his wily half-brother, Lysaer, Lord of Light, arrives at the tiny harbor town of Merior to find that Arithon's ship yards have been abandoned and meticulously destroyed, and that the Master of Shadow has disappeared as if into thin air. Meanwhile Arithon and the Mad Prophet Dakar are Miscellaneousing on foot through the treacherous Kelhorn Mountains towards the Vastmark clans, there to raise further support for his cause. But raising a warhost is a costly business. Is it mere coincidence that Princess Talith—Lysaer's beautiful, headstrong wife—is taken captive and held for a vast ransom by a master brigand? The forces of light and shadow circle and feint, drawing ever closer to a huge conflict. And in the background the Fellowship of Seven Sorcerers and the Koriani Enchantresses watch and plan, and wait.",
+      "published_year": 1995,
+      "rating": 4.03,
+      "num_pages": 522,
+      "ratings_count": 2966
+    }
+  },
+  {
+    "pk": 14,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006483014,
+      "isbn10": "0006483011",
+      "title": "The Once and Future King",
+      "author": "Terence Hanbury White",
+      "category": 6,
+      "image": "14.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Jx6BvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "An omnibus volume of the author's complete story of the Arthurian epic which includes: \"The sword in the stone\" (1939), \"The witch in the wood\" (1939), \"The ill-made knight\" (1940), \"The candle in the wind\" (published for the first time), and \"The book of Merlyn.\" 1996.",
+      "published_year": 1996,
+      "rating": 4.04,
+      "num_pages": 823,
+      "ratings_count": 2805
+    }
+  },
+  {
+    "pk": 15,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006483892,
+      "isbn10": "0006483895",
+      "title": "Murder in LaMut",
+      "author": "Raymond E. Feist;Joel Rosenberg",
+      "category": 3,
+      "image": "15.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=I2jbBlMHlAMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Available in the U.S. for the first time, this is the second volume in the exceptional Legends of the Riftwar series from \"New York Times\"-bestselling authors Feist and Rosenberg.",
+      "published_year": 2003,
+      "rating": 3.7,
+      "num_pages": 337,
+      "ratings_count": 5083
+    }
+  },
+  {
+    "pk": 16,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006483908,
+      "isbn10": "0006483909",
+      "title": "Jimmy the Hand",
+      "author": "Raymond E. Feist;S. M. Stirling",
+      "category": 4,
+      "image": "16.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=hV4-oITYFN8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Jimmy the Hand, boy thief of Krondor, lived in the shadows of the city. Though gifted beyond his peers, Jimmy is merely a pickpocket with potential--until he aids Prince Arutha in the rescue of Princess Anita from Duke Guy du Bas-Tyra, and runs afoul of \"Black Guy's\" secret police. Facing a choice between disappearing on his own or in a weighted barrel at the bottom of Krondor's harbor, Jimmy chooses the former. Forced to flee the only home he's ever known, Jimmy finds himself among the unsuspecting rural villagers of Land's End, where he hopes to prosper with his talents for con and thievery. But Land's End is home to many who tread the crooked path--and to a dark, dangerous presence even the local smugglers don't recognize. And suddenly Jimmy's youthful bravado and courage are leading him into the maw of chaos . . . and, quite possibly, to his doom.",
+      "published_year": 2003,
+      "rating": 3.95,
+      "num_pages": 368,
+      "ratings_count": 5579
+    }
+  },
+  {
+    "pk": 17,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006486145,
+      "isbn10": "0006486142",
+      "title": "Well of Darkness",
+      "author": "Margaret Weis;Tracy Hickman",
+      "category": 10,
+      "image": "17.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=XrwaAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Gareth is just a frightened young lad when he is drafted in to be the whipping-boy for the unruly Prince Dagnarus. Yet as they grow to be men, an unshakable bond is formed. And it is their destiny for them to become the two most powerful - and feared - men in the kingdom. But when Dagnarus decides to become a knight himself, he begins a chain of evil events that threaten to destroy the entire kingdom. Only by uniting the Sovereign Stone can peace be restored, and it is up to Dagnarus' brother Helmos to try to achieve this impossible task, using his father's soldiers against his brother's army. All the while, Gareth is gaining mastery over the sinister Void magic, and he is devoted to helping his childhood companion.. This gripping story of magical power and corruption takes the unique viewpoint of focusing on the evil characters, as we follow them from boys to men. Filled with action, suspense and wonderfully imaginative characters, Water From the Well of Darkness is set to elevate the careers of bestselling authors Weis & Hickman to spectacular new heights.",
+      "published_year": 2001,
+      "rating": 3.66,
+      "num_pages": 599,
+      "ratings_count": 68
+    }
+  },
+  {
+    "pk": 18,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006490456,
+      "isbn10": "000649045X",
+      "title": "Witness for the Prosecution & Selected Plays",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "18.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=_9u7AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Newly-Jacketed Edition Designed To Celebrate The 50Th Anniversary Of Christie S Faultlessly Plotted Witness For The Prosecution And Other Outstanding Plays. The Perfect Complement To The Latest Edition Of The Mousetrap And Selected Plays (50Th Aniversary Edition). Headlining This Book Is Witness For The Prosecution Christie S Highly Successful Stage Play Which Won The New York Fiction Critics Circle Award For Best Foreign Play. A Stunning Courtroom Fiction, It Tells The Story Of A Scheming Wife Testifying Against Her Husband In A Shocking Murder Trial. The Wild Beauty Of A Seaside House Perched High On The Devonshire River Tern Provides A Stunning Back-Drop In Towards Zero As A Psychopathic Murderer Homes In On The Unsuspecting Victims. Passion, Murder And Love Are The Deadly Ingredients In Verdict, Making It One Of Christie S More Unusual Thrillers And Prompting Her To Label It The Best Play I Have Written With The Exception Of Witness For The Prosecution . Go Back For Murder Tells The Story Of The Young And Feisty Carla Who, Orphaned At The Tender Age Of Five, Discovers Her Mother Was Imprisioned For Murdering Her Father And Determines To Prove Her Innocence.",
+      "published_year": 1995,
+      "rating": 4.05,
+      "num_pages": 352,
+      "ratings_count": 3908
+    }
+  },
+  {
+    "pk": 19,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006496434,
+      "isbn10": "0006496431",
+      "title": "The Little House",
+      "author": "Philippa Gregory",
+      "category": 10,
+      "image": "19.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=rbvUPps9vKsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "It was easy for Elizabeth. She married the man she loved. It was harder for Ruth. She married Elizabeth's son and then found that, somehow, she could never quite measure up. This thriller examines what women want and what they fear, as Ruth confronts the shifting borders of her own sanity.",
+      "published_year": 1998,
+      "rating": 3.66,
+      "num_pages": 368,
+      "ratings_count": 1832
+    }
+  },
+  {
+    "pk": 20,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006496878,
+      "isbn10": "0006496873",
+      "title": "Mystical Paths",
+      "author": "Susan Howatch",
+      "category": 1,
+      "image": "20.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=by4ytBy63o0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "1968 finds Nicholas Darrow wrestling with personal problems. How can he marry Rosalind when he is unable to avoid promiscuity? How can he become a priest when he finds it so difficult to live as one? And can he break his dangerous dependence on his father?",
+      "published_year": 1996,
+      "rating": 4.23,
+      "num_pages": 576,
+      "ratings_count": 1023
+    }
+  },
+  {
+    "pk": 21,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006496892,
+      "isbn10": "000649689X",
+      "title": "Glittering Images",
+      "author": "Susan Howatch",
+      "category": 1,
+      "image": "21.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=rDHbn0ORKhQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "It is 1937, and Charles Ashworth, a Canon to the Archbishop of Canterbury, is sent to untangle a web of self-delusion and corruption at the episcopal palace of the charismatic Bishop of Starbridge.",
+      "published_year": 1996,
+      "rating": 4.07,
+      "num_pages": 512,
+      "ratings_count": 2045
+    }
+  },
+  {
+    "pk": 22,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006496922,
+      "isbn10": "000649692X",
+      "title": "Glamorous Powers",
+      "author": "Susan Howatch",
+      "category": 8,
+      "image": "22.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=_bhPYWs6RrYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Reissue of the author's most famous and well-loved work, the Starbridge series, six self-contained yet interconnected novels that explore the history of the Church of England through the 20th century.",
+      "published_year": 1996,
+      "rating": 4.2,
+      "num_pages": 512,
+      "ratings_count": 1441
+    }
+  },
+  {
+    "pk": 23,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006498865,
+      "isbn10": "0006498868",
+      "title": "The Mad Ship",
+      "author": "Robin Hobb",
+      "category": 4,
+      "image": "23.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=2iWezkfdBE8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Fantasy master Robin Hobb delivers the stunning second volume of her Liveship Traders trilogy, returning to the timeless city of Bingtown, where pirates now plague the coasts and the dreaded slave trade flourishes. Althea Vestrit doesnt have time to be afraid, for her familys newly awakened Liveship, Vivacia, has been seized by the ruthless pirate Kennit. So Althea hatches a bold plan. But to carry it out, she must recruit a Liveship that has already slain two crews -- and is said to be insane.",
+      "published_year": 2000,
+      "rating": 4.24,
+      "num_pages": 906,
+      "ratings_count": 36101
+    }
+  },
+  {
+    "pk": 24,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006499169,
+      "isbn10": "0006499163",
+      "title": "Post Captain",
+      "author": "Patrick O'Brian",
+      "category": 1,
+      "image": "24.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=S761k-z51Q4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "This tale begins with Jack Aubrey arriving home from his exploits in the Mediterranean to find England at peace following the Treaty of Amiens. He and his friend Stephen Maturin, surgeon and secret agent, begin to live the lives of country gentlemen, hunting, entertaining and enjoying more amorous adventures. Their comfortable existence, however, is cut short when Jack is overnight reduced to a pauper with enough debts to keep him in prison for life. He flees to the continent to seek refuge: instead he finds himself a hunted fugitive as Napoleon has ordered the internment of all Englishmen in France. Aubrey's adventures in escaping from France and the debtors' prison will grip the reader as fast as his unequalled actions at sea.",
+      "published_year": 1996,
+      "rating": 4.29,
+      "num_pages": 474,
+      "ratings_count": 7815
+    }
+  },
+  {
+    "pk": 25,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006499268,
+      "isbn10": "0006499260",
+      "title": "The Reverse of the Medal",
+      "author": "Patrick O'Brian",
+      "category": 3,
+      "image": "25.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=YtjxFRb39Z4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "In this book, Jack Aubrey returns from his duties protecting whalers off the South American coast and is persuaded by a casual acquaintance to make investments in the City on the strength of supposedly certain information. From there he is led into the half-worlds of the London criminal underground and of government espionage - the province of his friend, Stephen Maturin.",
+      "published_year": 1997,
+      "rating": 4.41,
+      "num_pages": 261,
+      "ratings_count": 177
+    }
+  },
+  {
+    "pk": 26,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006499626,
+      "isbn10": "0006499627",
+      "title": "Miss Marple",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "26.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=a96qPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Miss Marple featured in 20 short stories, published in a number of different collections in Britain and America. Presented here in their order of publication, Miss Marple uses her unique insight to deduce the truth about a series of unsolved crimes.",
+      "published_year": 1997,
+      "rating": 4.2,
+      "num_pages": 359,
+      "ratings_count": 6235
+    }
+  },
+  {
+    "pk": 27,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006511489,
+      "isbn10": "0006511481",
+      "title": "The Years of Rice and Salt",
+      "author": "Kim Stanley Robinson",
+      "category": 9,
+      "image": "27.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=I38CFD1RnmsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Hailed by \"The New York Times Book Review\" as \"eye-opening, \" this alternative history of the last 600 years begins as the Black Death kills nearly everyone in Europe, and China, India, and the nations of Islam now control the world.",
+      "published_year": 2003,
+      "rating": 3.73,
+      "num_pages": 772,
+      "ratings_count": 194
+    }
+  },
+  {
+    "pk": 28,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006512677,
+      "isbn10": "0006512674",
+      "title": "Spares",
+      "author": "Michael Marshall Smith",
+      "category": 10,
+      "image": "28.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=83RrAdP9y5UC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Spares - human clones, the ultimate health insurance. An eye for an eye - but some people are doing all the taking. The story of Jack Randall: burnt-out, dropped out, and way overdrawn at the luck bank. But as caretaker on a Spares Farm, he still has a choice, and it might make a difference.",
+      "published_year": 1998,
+      "rating": 4.13,
+      "num_pages": 317,
+      "ratings_count": 2481
+    }
+  },
+  {
+    "pk": 29,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006513087,
+      "isbn10": "0006513085",
+      "title": "Gravity",
+      "author": "Tess Gerritsen",
+      "category": 1,
+      "image": "29.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=KI66cH39n6sC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Emma Watson a research physician has been training for the mission of a lifetime: to study living organisms in the microgravity of space. But the true and lethal nature of the experiment has not been revealed to NASA and once aboard the space station things start to go wrong. A culture of single-celled Archaeons, gathered from the deep sea, begin to rapidly multiply and infect the crew - with deadly and agonising results. As her estranged husband and ground crew at NASA work against the clock to launch a rescue Emma stuggles to contain the lethal microbe. But with the contagion threatening Earth's population, there are those who would leave the astronauts stranded in orbit, quarantined aboard the station.",
+      "published_year": 2004,
+      "rating": 4.04,
+      "num_pages": 342,
+      "ratings_count": 8024
+    }
+  },
+  {
+    "pk": 30,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006514640,
+      "isbn10": "0006514642",
+      "title": "The Wise Woman",
+      "author": "Philippa Gregory",
+      "category": 9,
+      "image": "30.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=BEr9wAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Alone and vulnerable, Alys joins a nunnery in an attempt to escape poverty but finds herself thrown back into the outside world when Henry VIII's wreckers destroy her sanctuary. With nothing but her looks, her magic and her own instinctive cunning, Alys has to tread a perilous path between the faith of her childhood and her own female power. When she falls in love with Hugo, the feudal lord and another woman's husband, she dips into witchcraft to defeat her rival and to win her lover, only to find that magic makes a poor servant but a dominant master. Since heresy against the new church means the stake, and witchcraft the rope, Alys's danger is mortal. A woman's powers are not longer safe to use...",
+      "published_year": 2002,
+      "rating": 3.31,
+      "num_pages": 640,
+      "ratings_count": 6583
+    }
+  },
+  {
+    "pk": 31,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006514855,
+      "isbn10": "0006514855",
+      "title": "Girls' Night in",
+      "author": "Jessica Adams;Chris Manby;Fiona Walker",
+      "category": 1,
+      "image": "31.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=xLwHHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "'Girls' Night In' features stories about growing up, growing out of, moving out, moving on, falling apart and getting it all together. So turn off your cell phone and curl up on the couch: this is one 'Girls' Night In' you won't want to miss.",
+      "published_year": 2000,
+      "rating": 3.26,
+      "num_pages": 586,
+      "ratings_count": 140
+    }
+  },
+  {
+    "pk": 32,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006545866,
+      "isbn10": "0006545866",
+      "title": "The White Album",
+      "author": "Joan Didion",
+      "category": 10,
+      "image": "32.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=qauOPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "This collection of essays recounts what took place on the long morning after the 1960s, when everyone was coming down from their particular bad trip. Didion observes the Fictions that explode as America goes into collective detox: the mother abandoning her five-year-old daughter on the central reservation of Interstate 5; Huey Newton and the Black Panthers preaching from their cells; students, in unconscious parody, simulating the disaffection of the 1960s.",
+      "published_year": 1993,
+      "rating": 4.17,
+      "num_pages": 224,
+      "ratings_count": 91
+    }
+  },
+  {
+    "pk": 33,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006550433,
+      "isbn10": "0006550436",
+      "title": "The Bonesetter's Daughter",
+      "author": "Amy Tan",
+      "category": 9,
+      "image": "33.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=4KHT6mIMDt4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Tells the story of three generations of Chinese women, beginning at the turn of the century.",
+      "published_year": 2001,
+      "rating": 3.98,
+      "num_pages": 352,
+      "ratings_count": 414
+    }
+  },
+  {
+    "pk": 34,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006551393,
+      "isbn10": "0006551394",
+      "title": "The Lexus and the Olive Tree",
+      "author": "Thomas L. Friedman",
+      "category": 9,
+      "image": "34.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=u8zxpq6o7HYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Half of this new, post-Cold War world is intent on building a better Lexus, on streamlining their societies and economies for the global marketplace, while the other half is locked in elemental struggles over who owns which olive tree, which strip of land.",
+      "published_year": 2000,
+      "rating": 3.59,
+      "num_pages": 352,
+      "ratings_count": 87
+    }
+  },
+  {
+    "pk": 35,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006551812,
+      "isbn10": "0006551815",
+      "title": "'Tis",
+      "author": "Frank McCourt",
+      "category": 9,
+      "image": "35.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Q3BhQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "FROM THE PULIZER PRIZE-WINNING AUTHOR OF THE #1 \"NEW YORK TIMES\" BESTSELLER \"ANGELA'S ASHES\" Frank McCourt's glorious childhood memoir, \"Angela's Ashes, \" has been loved and celebrated by readers everywhere. It won the National Book Critics Circle Award, the \"Los Angeles Times\" Book Award and the Pulitzer Prize. Rarely has a book so swiftly found its place on the literary landscape. And now we have \"'Tis, \" the story of Frank's American journey from impoverished immigrant to brilliant teacher and raconteur. Frank lands in New York at age nineteen and gets a job at the Biltmore Hotel, where he immediately encounters the vivid hierarchies of this \"classless country,\" and then is drafted into the army and is sent to Germany to train dogs and type reports. It is Frank's incomparable voice that renders these experiences spellbinding. When Frank returns to America in 1953, he works on the docks, always resisting what everyone tells him. He knows that he should be getting an education, and though he left school at fourteen, he talks his way into New York University. There, he falls in love with the quintessential Yankee and tries to live his dream. But it is not until he starts to teach that Frank finds his place in the world.",
+      "published_year": 2000,
+      "rating": 3.68,
+      "num_pages": 495,
+      "ratings_count": 44179
+    }
+  },
+  {
+    "pk": 36,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006646006,
+      "isbn10": "000664600X",
+      "title": "Ocean Star Express",
+      "author": "Mark Haddon;Peter Sutton",
+      "category": 1,
+      "image": "36.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=I2QZAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Joe and his parents are enjoying a summer holiday by the sea at the Ocean Star Hotel. The sky is bright blue, the sun shines and Joe loves all that the seaside has to offer. But when the fog rolls in and rain falls Joe begins to wish that he was back at home again. Things change, however, when the owner of the hotel invites Joe to share in a magical world, only a few steps away. The loft is black as night but then above Joe's head a thousand tiny stars begin to sparkle and in the distance he hears the chug-chug-chug of a model train. A whole world is soon to open up before Joe's eyes, a world of snow-capped mountains, great deserts, and rocking fishing boats.",
+      "published_year": 2002,
+      "rating": 3.5,
+      "num_pages": 32,
+      "ratings_count": 1
+    }
+  },
+  {
+    "pk": 37,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006754893,
+      "isbn10": "0006754899",
+      "title": "A Small Pinch of Weather",
+      "author": "Joan Aiken",
+      "category": 1,
+      "image": "37.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=QiFhOBpYZoYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A magical and fantastic collection of early stories by one of the most original children's authors of the 20th century. For 8-11 year olds.",
+      "published_year": 2000,
+      "rating": 4.27,
+      "num_pages": 239,
+      "ratings_count": 116
+    }
+  },
+  {
+    "pk": 38,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780006906018,
+      "isbn10": "000690601X",
+      "title": "The Princess of the Chalet School",
+      "author": "Elinor Mary Brent-Dyer",
+      "category": 1,
+      "image": "38.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=EJcQPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "",
+      "published_year": 2000,
+      "rating": 4.1,
+      "num_pages": 159,
+      "ratings_count": 446
+    }
+  },
+  {
+    "pk": 39,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007103676,
+      "isbn10": "0007103670",
+      "title": "Koko",
+      "author": "Peter Straub",
+      "category": 1,
+      "image": "39.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=QV_XQKj4OMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Koko is Peter Straub's foray into the psychological horror of the Vietnam War.",
+      "published_year": 2001,
+      "rating": 3.56,
+      "num_pages": 634,
+      "ratings_count": 7586
+    }
+  },
+  {
+    "pk": 40,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007105045,
+      "isbn10": "0007105045",
+      "title": "Tree and Leaf",
+      "author": "John Ronald Reuel Tolkien",
+      "category": 10,
+      "image": "40.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=aPb_AAIcwZ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "\"The two works 'On fairy-stories' and 'Leaf by Niggle' were first brought together to form the book 'Tree and leaf' in 1964. In this new edition a third element is added: the poem Mythopoeia, the making of myths...\"--Preface.",
+      "published_year": 2001,
+      "rating": 4.09,
+      "num_pages": 176,
+      "ratings_count": 2245
+    }
+  },
+  {
+    "pk": 41,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007111503,
+      "isbn10": "0007111509",
+      "title": "Partners in Crime",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "41.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=L0bfy0zgkegC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The Famous Volume Of Tommy & Tuppence Linked Short Stories, Reissued In A New Look To Coincide With The Brand New Series Of Tommy & Tuppence Bbc Movies. Tommy And Tuppence Beresford Were Restless For Adventure, So When They Were Asked To Take Over Blunt S International Detective Agency, They Leapt At The Chance. After Their Triumphant Recovery Of A Pink Pearl, Intriguing Cases Kept On Coming Their Way: A Stabbing On Sunningdale Golf Course; Cryptic Messages In The Personal Columns Of Newspapers; And Even A Box Of Poisoned Chocolates.",
+      "published_year": 2001,
+      "rating": 3.77,
+      "num_pages": 347,
+      "ratings_count": 9506
+    }
+  },
+  {
+    "pk": 42,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007113804,
+      "isbn10": "0007113803",
+      "title": "Murder in Mesopotamia",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "42.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=oFkbc7BbYN0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "An archaeologist's wife is murdered on the shores of the River Tigris in Iraq... It was clear to Amy Leatheran that something sinister was going on at the Hassanieh dig in Iraq; something associated with the presence of 'Lovely Louise', wife of celebrated archaeologist Dr Leidner. In a few days' time Hercule Poirot was due to drop in at the excavation site. But with Louise suffering from terrifying hallucinations, and tension within the group becoming almost unbearable, Poirot might just be too late...",
+      "published_year": 2001,
+      "rating": 3.89,
+      "num_pages": 264,
+      "ratings_count": 25692
+    }
+  },
+  {
+    "pk": 43,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007116263,
+      "isbn10": "0007116268",
+      "title": "The Lord of the Rings, the Return of the King",
+      "author": "Jude Fisher",
+      "category": 1,
+      "image": "43.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=kNBnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A visual guide to the third in the Lord of the Rings movie trilogy. A large-format, full-colour guide to the characters, places, landscapes, artefacts, battles, and costumes as seen in the film, it features images, informative text and specially commissioned extras.",
+      "published_year": 2003,
+      "rating": 4.59,
+      "num_pages": 72,
+      "ratings_count": 22
+    }
+  },
+  {
+    "pk": 44,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007117536,
+      "isbn10": "0007117531",
+      "title": "All Families are Psychotic",
+      "author": "Douglas Coupland",
+      "category": 10,
+      "image": "44.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=jYBsNp6NPVoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "On the eve of the next Space Shuttle mission, a divided family comes together... Warm, witty and wise, All Families Are Psychotic is Coupland at the very top of his form: 'Irresistibly hilarious, unique and wonderful' Independent on Sunday In a cheap motel an hour from Cape Canaveral, Janet Drummond takes her medication, and does a rapid tally of the whereabouts of her children. Wade has spent the night in jail; suicidal Bryan is due to arrive at any moment with his vowel-free girlfriend, Shw; and then there is Sarah, 'a bolt of lightning frozen in midflash' -- here in Orlando to be the star of Friday's shuttle mission. With Janet's ex-husband and his trophy wife also in town, Janet spends a moment contemplating her family, and where it all went wrong. Or did it?",
+      "published_year": 2002,
+      "rating": 3.69,
+      "num_pages": 279,
+      "ratings_count": 350
+    }
+  },
+  {
+    "pk": 45,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007119332,
+      "isbn10": "000711933X",
+      "title": "Death in the Clouds",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "45.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=M8iyckq4GQ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A woman is killed by a poisoned dart in the enclosed confines of a commercial passenger plane... From seat No.9, Hercule Poirot was ideally placed to observe his fellow air passengers. Over to his right sat a pretty young woman, clearly infatuated with the man opposite; ahead, in seat No.13, sat a Countess with a poorly-concealed cocaine habit; across the gangway in seat No.8, a detective writer was being troubled by an aggressive wasp. What Poirot did not yet realize was that behind him, in seat No.2, sat the slumped, lifeless body of a woman.",
+      "published_year": 2001,
+      "rating": 3.8,
+      "num_pages": 333,
+      "ratings_count": 21123
+    }
+  },
+  {
+    "pk": 46,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007119356,
+      "isbn10": "0007119356",
+      "title": "Appointment with Death",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "46.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=lSYwsRkcw4YC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A repugnant Amercian widow is killed during a trip to Petra... Among the towering red cliffs of Petra, like some monstrous swollen Buddha, sat the corpse of Mrs Boynton. A tiny puncture mark on her wrist was the only sign of the fatal injection that had killed her. With only 24 hours available to solve the mystery, Hercule Poirot recalled a chance remark he'd overheard back in Jerusalem: 'You see, don't you, that she's got to be killed?' Mrs Boynton was, indeed, the most detestable woman he'd ever met...",
+      "published_year": 2001,
+      "rating": 3.86,
+      "num_pages": 303,
+      "ratings_count": 24859
+    }
+  },
+  {
+    "pk": 47,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120680,
+      "isbn10": "0007120680",
+      "title": "Hallowe'en Party",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "47.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Qlx98EGK_jMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "No one believes a little girl when she insists that she has witnessed a murder until she herself turns up drowned, and Hercule Poirot sets out to catch the killer.",
+      "published_year": 2001,
+      "rating": 3.66,
+      "num_pages": 336,
+      "ratings_count": 18820
+    }
+  },
+  {
+    "pk": 48,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120697,
+      "isbn10": "0007120699",
+      "title": "Hercule Poirot's Christmas",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "48.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=EA0j4Jzn4vAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "On the night before Christmas, cruel, tyrannical, filthy-rich Simeon Lee is found in his locked bedroom with his throat cut. Now Hercule Poirot must put his deductive powers to the test to solve one of his most chilling cases--and to prevent a clever killer from spilling more blood.",
+      "published_year": 2001,
+      "rating": 3.93,
+      "num_pages": 335,
+      "ratings_count": 23113
+    }
+  },
+  {
+    "pk": 49,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120819,
+      "isbn10": "0007120818",
+      "title": "The Big Four",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "49.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=wcOQUSWQEdUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A ruthless international cartel seeks world domination... Framed in the doorway of Poirot's bedroom stood an uninvited guest, coated from head to foot in dust. The man's gaunt face stared for a moment, then he swayed and fell. Who was he? Was he suffering from shock or just exhaustion? Above all, what was the significance of the figure 4, scribbled over and over again on a sheet of paper? Poirot finds himself plunged into a world of international intrigue, risking his life to uncover the truth about 'Number Four'.",
+      "published_year": 2002,
+      "rating": 3.59,
+      "num_pages": 272,
+      "ratings_count": 22155
+    }
+  },
+  {
+    "pk": 50,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120864,
+      "isbn10": "0007120869",
+      "title": "The Thirteen Problems",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "50.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=MK9JNwoZAncC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The Tuesday Night Club is a venue where locals challenge Miss Marple to solve recent crimes... One Tuesday evening a group gathers at Miss Marple's house and the conversation turns to unsolved crimes... The case of the disappearing bloodstains; the thief who committed his crime twice over; the message on the death-bed of a poisoned man which read 'heap of fish'; the strange case of the invisible will; a spiritualist who warned that 'Blue Geranium' meant death... Now pit your wits against the powers of deduction of the 'Tuesday Night Club'.",
+      "published_year": 2002,
+      "rating": 3.89,
+      "num_pages": 315,
+      "ratings_count": 12840
+    }
+  },
+  {
+    "pk": 51,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120871,
+      "isbn10": "0007120877",
+      "title": "They Do it with Mirrors",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "51.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=HUuQYGppZi8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A man is shot at in a juvenile reform home - but someone else dies... Miss Marple senses danger when she visits a friend living in a Victorian mansion which doubles as a rehabilitiation centre for delinquents. Her fears are confirmed when a youth fires a revolver at the administrator, Lewis Serrocold. Neither is injured. But a mysterious visitor, Mr Gilbrandsen, is less fortunate - shot dead simultaneously in another part of the building. Pure coincidence? Miss Marple thinks not, and vows to discover the real reason for Mr Gilbrandsen's visit.",
+      "published_year": 2002,
+      "rating": 3.75,
+      "num_pages": 284,
+      "ratings_count": 415
+    }
+  },
+  {
+    "pk": 52,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120963,
+      "isbn10": "0007120966",
+      "title": "A Murder is Announced",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "52.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=QEEvzeAkdzoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The villagers of Chipping Cleghorn are amazed by an advertisement in the local paper which reads \"A murder is announced and will take place on Friday October 29th, at Little Paddocks at 6.30pm. Unable to resist, a crowd begins to gather at the house at the appointed time. But when a man is killed in what looks like an attempted robbery, Miss Marple becomes involved.",
+      "published_year": 2002,
+      "rating": 3.98,
+      "num_pages": 382,
+      "ratings_count": 680
+    }
+  },
+  {
+    "pk": 53,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007120987,
+      "isbn10": "0007120982",
+      "title": "The Mirror Crack'd from Side to Side",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "53.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=lTYId7FIJEsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "One Minute, Silly Heather Badcock Had Been Gabbling On At Her Movie Idol, The Glamorous Marina Gregg. The Next, Heather Suffered A Massive Seizure. But For Whom Was The Deadly Poison Really Intended? Marina S Frozen Expression Suggested She Had Witnessed Something Horrific. But, While Others Searched For Material Evidence, Jane Marple Conducted A Very Different Investigation Into Human Nature.",
+      "published_year": 2002,
+      "rating": 3.91,
+      "num_pages": 351,
+      "ratings_count": 23249
+    }
+  },
+  {
+    "pk": 54,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007121007,
+      "isbn10": "0007121008",
+      "title": "Mrs McGinty's Dead",
+      "author": "Agatha Christie",
+      "category": 9,
+      "image": "54.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=gcS0d5HhGEEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "An old widow is brutally killed in the parlour of her cottage... Mrs McGinty died from a brutal blow to the back of her head. Suspicion fell immediately on her shifty lodger, James Bentley, whose clothes revealed traces of the victim's blood and hair. Yet something was amiss: Bentley just didn't look like a murderer. Poirot believed he could save the man from the gallows - what he didn't realise was that his own life was now in great danger...",
+      "published_year": 2002,
+      "rating": 3.83,
+      "num_pages": 328,
+      "ratings_count": 525
+    }
+  },
+  {
+    "pk": 55,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007121014,
+      "isbn10": "0007121016",
+      "title": "Taken at the Flood",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "55.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=3gWlxIFlMEwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A Few Weeks After Marrying An Attractive Young Widow, Gordon Cloade Is Tragically Killed By A Bomb Blast In The London Blitz. Overnight, The Former Mrs Underhay Finds Herself In Sole Possession Of The Cloade Family Fortune. Shortly Afterwards, Hercule Poirot Receives A Visit From The Dead Man S Sister-In-Law Who Claims She Has Been Warned By Spirits That Mrs Underhay S First Husband Is Still Alive. Poirot Has His Suspicions When He Is Asked To Find A Missing Person Guided Only By The Spirit World. Yet What Mystifies Poirot Most Is The Woman S True Motive For Approaching Him&",
+      "published_year": 2002,
+      "rating": 3.71,
+      "num_pages": 352,
+      "ratings_count": 8852
+    }
+  },
+  {
+    "pk": 56,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007121021,
+      "isbn10": "0007121024",
+      "title": "The Hollow",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "56.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=-f1h4e0hl0oC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Lucy Angkatell Invited Hercule Poirot To Lunch. To Tease The Great Detective, Her Guests Stage A Mock Murder Beside The Swimming Pool. Unfortunately, The Victim Plays The Scene For Real. As His Blood Drips Into The Water, John Christow Gasps One Final Word: Henrietta . In The Confusion, A Gun Sinks To The Bottom Of The Pool. Poirot S Enquiries Reveal A Complex Web Of Romantic Attachments. It Seems Everyone In The Fiction Is A Suspect And Each A Victim Of Love.",
+      "published_year": 2002,
+      "rating": 3.79,
+      "num_pages": 384,
+      "ratings_count": 13022
+    }
+  },
+  {
+    "pk": 57,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007121106,
+      "isbn10": "0007121105",
+      "title": "Third Girl",
+      "author": "Agatha Christie",
+      "category": 9,
+      "image": "57.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Dbh7nUkG_6cC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A perplexed girl thinks she might have killed someone... Three single girls shared the same London flat. The first worked as a secretary; the second was an artist; the third who came to Poirot for help, disappeared convinced she was a murderer. Now there were rumours of revolvers, flick-knives and blood stains. But, without hard evidence, it would take all Poirot's tenacity to establish whether the third girl was guilty innocent or insane...",
+      "published_year": 2002,
+      "rating": 3.62,
+      "num_pages": 365,
+      "ratings_count": 13705
+    }
+  },
+  {
+    "pk": 58,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007122585,
+      "isbn10": "0007122586",
+      "title": "The Secret of Chimneys",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "58.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=1OluX5g96OcC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A young drifter finds more than he bargained for when he agrees to deliver a parcel to an English country house...",
+      "published_year": 2001,
+      "rating": 3.86,
+      "num_pages": 400,
+      "ratings_count": 11110
+    }
+  },
+  {
+    "pk": 59,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007124015,
+      "isbn10": "0007124015",
+      "title": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "category": 1,
+      "image": "59.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/books/content?id=XApOPwAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73DrNQ4_X2ZYw_oPS1RVQiQ_u2hIaA-5e4qsmbL66faQ69XUP6f1Vee9wokpYegNlEHX-kKiKOj-wYKlJYvC4V_b5ZTTkyNsNabxHyIF2rkZCbafCwKSt21D7XIK1MqUxno0Rnt",
+      "description": "Sauron has gathered the Rings of Power - the means by which he will be able to rule the world. All he needs now is the Ruling Ring, which has fallen into the hands of the hobbit Bilbo Baggins. Frodo Baggins is entrusted to foil Sauron's plans.",
+      "published_year": 2001,
+      "rating": 4.49,
+      "num_pages": 1546,
+      "ratings_count": 187
+    }
+  },
+  {
+    "pk": 60,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007126903,
+      "isbn10": "0007126905",
+      "title": "The Metaphysical Club",
+      "author": "Louis Menand",
+      "category": 1,
+      "image": "60.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=C3Gkwi3SfmMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "In an absorbing narrative about personalities and social history, Menand discusses the Metaphysical Club, an informal group that met in Cambridge, Massachusetts, in 1872, to talk about ideas. Members included Oliver Wendell Holmes, Jr., William James, and Charles Sanders Peirce. 21 photos.",
+      "published_year": 2002,
+      "rating": 4.07,
+      "num_pages": 560,
+      "ratings_count": 3311
+    }
+  },
+  {
+    "pk": 61,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007127740,
+      "isbn10": "000712774X",
+      "title": "The illustrated man",
+      "author": "Ray Bradbury",
+      "category": 1,
+      "image": "61.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=kePqlVft1bQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "That The Illustrated Man has remained in print since being published in 1951 is fair testimony to the universal appeal of Ray Bradbury's work. Only his second collection (the first was Dark Carnival, later reworked into The October Country), it is a marvelous, if mostly dark, quilt of science fiction, fantasy, and horror. In an ingenious framework to open and close the book, Bradbury presents himself as a nameless narrator who meets the Illustrated Man--a wanderer whose entire body is a living canvas of exotic tattoos. What's even more remarkable, and increasingly disturbing, is that the illustrations are themselves magically alive, and each proceeds to unfold its own story, such as 'The Veldt,' wherein rowdy children take a game of virtual reality way over the edge. Or 'Kaleidoscope,' a heartbreaking portrait of stranded astronauts about to reenter our atmosphere--without the benefit of a spaceship. Or 'Zero Hour,' in which invading aliens have discovered a most logical ally--our own children. Even though most were written in the 1940s and 1950s, these 18 classic stories will be just as chillingly effective 50 years from now. ",
+      "published_year": 2002,
+      "rating": 4.14,
+      "num_pages": 186,
+      "ratings_count": 56781
+    }
+  },
+  {
+    "pk": 62,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007129652,
+      "isbn10": "0007129653",
+      "title": "Wilkins' Tooth",
+      "author": "Diana Wynne Jones",
+      "category": 10,
+      "image": "62.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=lXUSHqQfOD8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "OWN BACK LIMITEDREVENGE ARRANGED, PRICE ACCORDING TO TASK, ALL DIFFICULT TASKS UNDERTAKEN, TREASURE HUNTED, ETC. It seemed like a marvellous scheme at the time! Frank and Jess had set up the business because they needed money - their pocket-money had been stopped just when Frank owed Buster Knell ten pence. Their father had put a quick stop to ERRANDS RUN, so why not try something that was bad instead? Offering to do dreadful things that other people didn't dare to do? So they pinned up the notice on the potting-shed and waited for customers. But of course, nothing's ever THAT straightforward.",
+      "published_year": 2002,
+      "rating": 3.59,
+      "num_pages": 207,
+      "ratings_count": 69
+    }
+  },
+  {
+    "pk": 63,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007130313,
+      "isbn10": "0007130317",
+      "title": "Cut",
+      "author": "Patricia McCormick",
+      "category": 10,
+      "image": "63.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Q140Mlie138C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Fifteen-year old Callie is so withdrawn that she's not speaking to anyone - including her therapist at Sea Pines, known to its guests as 'Sick Minds' - the residential treatment facility where her parents and doctor send her after discovering that she cuts herself. Her story unfolds primarily through Fictiontic monologues, gradually revealing the family turmoil that led to her self-destructive behaviour.",
+      "published_year": 2002,
+      "rating": 3.76,
+      "num_pages": 173,
+      "ratings_count": 107
+    }
+  },
+  {
+    "pk": 64,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007135653,
+      "isbn10": "0007135653",
+      "title": "The Lord of the Rings",
+      "author": "Gary Russell",
+      "category": 10,
+      "image": "64.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=oEZ6AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "With complete access to artwork created over a five-year period, this guide illustrates the creative development of The Return of the King. It contains over 600 images, from the earliest pencil sketches and conceptual drawings to magnificent paintings, sculptures and digital imagery that shaped the look of the film. Contributing artists include John Howe and Alan Lee, artists who have inspired Peter Jackson's vision of Middle-earth and worked with him to bring the trilogy to the big screen. Peter Jackson himself provides the afterword in which he discusses the importance of the conceptual art to the film. It covers most aspects of the eagerly awaited finale to the enormously successful trilogy, from locations and costumes to weaponry and creatures. The artists who created all of these diverse elements explain how they contributed to the development of the film.",
+      "published_year": 2004,
+      "rating": 4.54,
+      "num_pages": 224,
+      "ratings_count": 28
+    }
+  },
+  {
+    "pk": 65,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007136582,
+      "isbn10": "0007136587",
+      "title": "The Lord of the Rings",
+      "author": "John Ronald Reuel Tolkien",
+      "category": 4,
+      "image": "65.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=LwO-vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Since it was first published in 1954, 'The Lord of the Rings' has been a book people have treasured. Steeped in unrivalled magic and otherworldliness, its sweeping fantasy has touched the hearts of young and old alike. Well over 100 million copies of its many editions have been sold around the world, and occasional collectors’ editions become prized and valuable items of publishing. With the epic trilogy now being released on film, images of the characters and landscapes have become eagerly sought after. Much of the look of the movies is based on Alan Lee’s paintings, giving this Centenary edition of Tolkien’s great work new relevance for the ever-growing number of fans.",
+      "published_year": 2002,
+      "rating": 4.49,
+      "num_pages": 1200,
+      "ratings_count": 680
+    }
+  },
+  {
+    "pk": 66,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007136599,
+      "isbn10": "0007136595",
+      "title": "The Fellowship of the Ring",
+      "author": "John Ronald Reuel Tolkien;Alan Lee",
+      "category": 4,
+      "image": "66.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=K7xSPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Tolkien's classic fantasy about the quest to save Middle-Earth--and the basis for Peter Jackson's Academy Award(-winning film trilogy--is now available in these Young Reader's Editions. Each book of the trilogy is available individually, or together in a three-volume paperback boxed set.",
+      "published_year": 2002,
+      "rating": 4.35,
+      "num_pages": 410,
+      "ratings_count": 56
+    }
+  },
+  {
+    "pk": 67,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007137336,
+      "isbn10": "0007137338",
+      "title": "Lirael",
+      "author": "Garth Nix",
+      "category": 4,
+      "image": "67.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=sDzU8TpKvQAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "When a dangerous necromancer threatens to unleash a long-buried evil, Lirael and Prince Sameth are drawn into a battle to save the Old Kingdom and reveal their true destinies. Suggested level: secondary.",
+      "published_year": 2004,
+      "rating": 4.3,
+      "num_pages": 527,
+      "ratings_count": 1339
+    }
+  },
+  {
+    "pk": 68,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007149124,
+      "isbn10": "0007149123",
+      "title": "Tales from the Perilous Realm",
+      "author": "John Ronald Reuel Tolkien",
+      "category": 1,
+      "image": "68.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Wla7NwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Never before published in a single volume, Tolkien's four novellas (\"Farmer Giles of Ham, Leaf by Niggle, Smith of Wootton Major,\" and \"Roverandom\") and one book of poems (\"The Adventures of Tom Bombadil\") are gathered together in a fully illustrated set.",
+      "published_year": 2002,
+      "rating": 4.08,
+      "num_pages": 178,
+      "ratings_count": 2964
+    }
+  },
+  {
+    "pk": 69,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007149612,
+      "isbn10": "0007149611",
+      "title": "Breaking Open the Head",
+      "author": "Daniel Pinchbeck",
+      "category": 10,
+      "image": "69.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=QIMaviqqoQoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A new 'The Doors of Perception' for the 21st century? A visionary journey from cynicism to shamanism by a brilliant young US writer.",
+      "published_year": 2004,
+      "rating": 4.06,
+      "num_pages": 336,
+      "ratings_count": 46
+    }
+  },
+  {
+    "pk": 70,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007149827,
+      "isbn10": "0007149824",
+      "title": "The Yiddish Policemen's Union",
+      "author": "Michael Chabon",
+      "category": 1,
+      "image": "70.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=-reD1g77BfsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "For sixty years, Jewish refugees and their descendants have prospered in the Federal District of Sitka, a \"temporary\" safe haven created in the wake of revelations of the Holocaust and the shocking 1948 collapse of the fledgling state of Israel. Proud, grateful, and longing to be American, the Jews of the Sitka District have created their own little world in the Alaskan panhandle, a vibrant, gritty, soulful, and complex frontier city that moves to the Miscellaneous of Yiddish. For sixty years they have been left alone, neglected and half-forgotten in a backwater of history. Now the District is set to revert to Alaskan control, and their dream is coming to an end: once again the tides of history threaten to sweep them up and carry them off into the unknown. But homicide detective Meyer Landsman of the District Police has enough problems without worrying about the upcoming Reversion. His life is a shambles, his marriage a wreck, his career a disaster. He and his half-Tlingit partner, Berko Shemets, can't catch a break in any of their outstanding cases. Landsman's new supervisor is the love of his life—and also his worst nightmare. And in the cheap hotel where he has washed up, someone has just committed a murder—right under Landsman's nose. Out of habit, obligation, and a mysterious sense that it somehow offers him a shot at redeeming himself, Landsman begins to investigate the killing of his neighbor, a former chess prodigy. But when word comes down from on high that the case is to be dropped immediately, Landsman soon finds himself contending with all the powerful forces of faith, obsession, hopefulness, evil, and salvation that are his heritage—and with the unfinished business of his marriage to Bina Gelbfish, the one person who understands his darkest fears. At once a gripping whodunit, a love story, an homage to 1940s noir, and an exploration of the mysteries of exile and redemption, The Yiddish Policemen's Union is a novel only Michael Chabon could have written.",
+      "published_year": 2007,
+      "rating": 3.7,
+      "num_pages": 414,
+      "ratings_count": 51219
+    }
+  },
+  {
+    "pk": 71,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007150304,
+      "isbn10": "000715030X",
+      "title": "Beware, Princess Elizabeth",
+      "author": "Carolyn Meyer",
+      "category": 10,
+      "image": "71.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=wPBpR4AFNJ0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A matter of life and death - and the Throne of England",
+      "published_year": 2003,
+      "rating": 3.88,
+      "num_pages": 242,
+      "ratings_count": 78
+    }
+  },
+  {
+    "pk": 72,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007151240,
+      "isbn10": "0007151241",
+      "title": "The Family Way",
+      "author": "Tony Parsons",
+      "category": 10,
+      "image": "72.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=dJEIxdYmnU8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "It should be the most natural thing in the world. But in Tony Parsons' latest bestseller, three couples discover that Mother Nature can be one hell of a bitch.",
+      "published_year": 2005,
+      "rating": 3.51,
+      "num_pages": 400,
+      "ratings_count": 2095
+    }
+  },
+  {
+    "pk": 73,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007151677,
+      "isbn10": "0007151675",
+      "title": "Endless Night",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "73.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=kY1wuNfgmFQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Gipsy S Acre Was A Truly Beautiful Upland Site With Views Out To Sea And In Michael Rogers It Stirred A Child-Like Fantasy. There, Among The Dark Fir Trees, He Planned To Build A House, Find A Wonderful Girl And Live Happily Ever After, Yet, As He Left The Village, A Shadow Of Menace Hung Over The Land. For This Was The Place Where Accidents Happened. Perhaps Michael Should Have Heeded The Locals Warnings: There S No Luck For Them As Meddles With Gipsy S Acre .",
+      "published_year": 2002,
+      "rating": 3.77,
+      "num_pages": 303,
+      "ratings_count": 12740
+    }
+  },
+  {
+    "pk": 74,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007153589,
+      "isbn10": "0007153589",
+      "title": "How to be Alone",
+      "author": "Jonathan Franzen",
+      "category": 10,
+      "image": "74.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=ozVWaXd9xvwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "'The Harper's Essay' is reprinted in this volume alongside personal essays and painstaking, often funny reportage. Although his subjects range widely, each piece wrestles with the erosion of civic life and private dignity, and the hidden persistence of loneliness in postmodern America.",
+      "published_year": 2004,
+      "rating": 3.6,
+      "num_pages": 306,
+      "ratings_count": 327
+    }
+  },
+  {
+    "pk": 75,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007154845,
+      "isbn10": "0007154844",
+      "title": "The Mysterious Mr. Quin",
+      "author": "Agatha Christie",
+      "category": "5",
+      "image": "75.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=n0aMDV7Lm4sC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A mysterious stranger appears at a New Year's Eve party, becoming the enigmatic sleuthing sidekick to the snobbish Mr Satterthwaite... So far, it had been a typical New Year's Eve house party. But Mr Satterthwaite - a keen observer of human nature - sensed that the real Fiction of the evening was yet to unfold. So it proved when a mysterious stranger arrived after midnight. Who was this Mr Quin? And why did his presence have such a pronounced effect on Eleanor Portal, the woman with the dyed-black hair?",
+      "published_year": 2003,
+      "rating": 3.72,
+      "num_pages": 396,
+      "ratings_count": 7514
+    }
+  },
+  {
+    "pk": 76,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007154883,
+      "isbn10": "0007154887",
+      "title": "The Listerdale Mystery",
+      "author": "Agatha Christie",
+      "category": 5,
+      "image": "76.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=J1tLGz5G84EC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A selection of mysteries, some light-hearted, some romantic, some very deadly... Twelve tantalizing cases... the curious disappearance of Lord Listerdale; a newlywed's fear of her ex-fiance; a strange encounter on a train; a domestic murder investigation; a wild man's sudden personality change; a retired inspector's hunt for a murderess; a young woman's impersonation of a duchess; a necklace hidden in a basket of cherries; a mystery writer's arrest for murder; an astonishing marriage proposal; a soprano's hatred for a baritone; the case of the rajah's emerald. All have one thing in common: the skilful hand of Agatha Christie.",
+      "published_year": 2003,
+      "rating": 3.55,
+      "num_pages": 317,
+      "ratings_count": 178
+    }
+  },
+  {
+    "pk": 77,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007158058,
+      "isbn10": "000715805X",
+      "title": "The Real Trial of Oscar Wilde",
+      "author": "Merlin Holland",
+      "category": 7,
+      "image": "77.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=QfNgQfTKcg0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Oscar Wilde had one of literary history's most explosive love affairs with Lord Alfred \"Bosie\" Douglas. In 1895, Bosie's father, the Marquess of Queensberry, delivered a note to the Albemarle Club addressed to \"Oscar Wilde posing as sodomite.\" With Bosie's encouragement, Wilde sued the Marquess for libel. He not only lost but he was tried twice for \"gross indecency\" and sent to prison with two years' hard labor. With this publication of the uncensored trial transcripts, readers can for the first time in more than a century hear Wilde at his most articulate and brilliant. The Real Trial of Oscar Wilde documents an alarmingly swift fall from grace; it is also a supremely moving testament to the right to live, work, and love as one's heart dictates.",
+      "published_year": 2004,
+      "rating": 4.04,
+      "num_pages": 384,
+      "ratings_count": 183
+    }
+  },
+  {
+    "pk": 78,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007158515,
+      "isbn10": "0007158513",
+      "title": "I Can Read with Me Eyes Shut!",
+      "author": "Dr. Seuss",
+      "category": 7,
+      "image": "78.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=oyF8U9BRTQwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Nonsense rhyming story. 4 yrs+",
+      "published_year": 2003,
+      "rating": 4.2,
+      "num_pages": 48,
+      "ratings_count": 16561
+    }
+  },
+  {
+    "pk": 79,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007158522,
+      "isbn10": "0007158521",
+      "title": "Oh, the Places You'll Go!",
+      "author": "Dr. Seuss",
+      "category": 3,
+      "image": "79.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Ev4Llq5fv4IC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "From bang-ups and hang-ups to lurches and slumps. Dr. Seuss takes a hilarious look at the mishaps and misadventures that life may have in store for us.",
+      "published_year": 2003,
+      "rating": 4.35,
+      "num_pages": 48,
+      "ratings_count": 926
+    }
+  },
+  {
+    "pk": 80,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007162994,
+      "isbn10": "0007162995",
+      "title": "If I Die in a Combat Zone",
+      "author": "Tim O'Brien",
+      "category": 9,
+      "image": "80.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=0qUtSvo_MiEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Perhaps the best book to emerge from the Vietnam War -- reissued alongside five other jewels of the Flamingo backlist from the 1970s. First published in1973, this intensely personal novel about one foot soldier's tour of duty in Vietnam established Tim O'Brien's reputation as the outstanding chronicler of the Vietnam experience for a generation of Americans. From basic training to the front line and back again, he takes the reader on an unforgettable journey -- walking the minefields of My Lai, fighting the heat and the snipers in an alien land, crawling into the ghostly tunnels -- as he explores the ambiguities of manhood and morality in a war no one believes in.",
+      "published_year": 2003,
+      "rating": 3.95,
+      "num_pages": 208,
+      "ratings_count": 11
+    }
+  },
+  {
+    "pk": 81,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007171996,
+      "isbn10": "0007171994",
+      "title": "The Return of the King",
+      "author": "J. R. R. Tolkien",
+      "category": 4,
+      "image": "81.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=PI9zPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "THE GREATEST FANTASY EPIC OF OUR TIME While the evil might of the Dark Lord Sauron swarmed out to conquer all Middle-earth, Frodo and Sam struggled deep into Mordor, seat of Sauron's power. To defeat the Dark Lord, the accursed Ring of Power had to be destroyed in the fires of Mount Doom. But the way was impossibly hard, and Frodo was weakening. Weighed down by the compulsion of the Ring he began finally to despair. The awesome conclusion of J.R.R. Tolkien's The Lord of the Rings, beloved by millions of readers around the world.",
+      "published_year": 2003,
+      "rating": 4.52,
+      "num_pages": 554,
+      "ratings_count": 253
+    }
+  },
+  {
+    "pk": 82,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007173020,
+      "isbn10": "0007173024",
+      "title": "The Silmarillion",
+      "author": "John Ronald Reuel Tolkien;Ted Nasmith",
+      "category": 1,
+      "image": "82.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=hLH0dtl5NVwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Designed to take fans of The Hobbit and The Lord of the Rings deeper into the myths and legends of Middle-earth The Silmarillion is an account of the Elder Days, of the First Age of Tolkien s world. It is the ancient Fiction to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part. The tales of The Silmarillion are set in an age when Morgoth, the first Dark Lord, dwelt in Middle-Earth, and the High Elves made war upon him for the recovery of the Silmarils, the jewels containing the pure light of Valinor. Included in the book are several shorter works. The Ainulindale is a myth of the Creation and in the Valaquenta the nature and powers of each of the gods is described. The Akallabeth recounts the downfall of the great island kingdom of Numenor at the end of the Second Age and Of the Rings of Power tells of the great events at the end of the Third Age, as narrated in The Lord of the Rings. This pivotal work features the revised, corrected text and includes, by way of an introduction, a fascinating letter written by Tolkien in 1951 in which he gives a full explanation of how he conceived the early Ages of Middle-earth.\"",
+      "published_year": 2004,
+      "rating": 3.91,
+      "num_pages": 386,
+      "ratings_count": 49
+    }
+  },
+  {
+    "pk": 83,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007173136,
+      "isbn10": "000717313X",
+      "title": "I Wish that I Had Duck Feet",
+      "author": "Dr. Seuss;Barney Tobey",
+      "category": 10,
+      "image": "83.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=m9cZAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A boy imagines what it would be like if he had such things as duck feet, a whale spout, and an elephant's trunk.",
+      "published_year": 2004,
+      "rating": 4.16,
+      "num_pages": 64,
+      "ratings_count": 8903
+    }
+  },
+  {
+    "pk": 84,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007175222,
+      "isbn10": "0007175221",
+      "title": "Oh Say Can You Say?",
+      "author": "Dr. Seuss",
+      "category": 10,
+      "image": "84.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=r4l8AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Tie your tongue in terrible knots as you try to read aloud. Nonsense rhyming story.",
+      "published_year": 2004,
+      "rating": 4.01,
+      "num_pages": 36,
+      "ratings_count": 5726
+    }
+  },
+  {
+    "pk": 85,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007178636,
+      "isbn10": "0007178638",
+      "title": "There's a Boy in the Girls' Bathroom",
+      "author": "Louis Sachar",
+      "category": 10,
+      "image": "85.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=jHE-PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A study guide for the novel There's a Boy in the Girl's bathroom.",
+      "published_year": 2004,
+      "rating": 3.98,
+      "num_pages": 208,
+      "ratings_count": 174
+    }
+  },
+  {
+    "pk": 86,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007179817,
+      "isbn10": "0007179812",
+      "title": "Microserfs",
+      "author": "Douglas Coupland",
+      "category": 10,
+      "image": "86.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=N3AmmJIsK6wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "At computer giant Microsoft, Dan, Susan, Abe, Todd and Bug are struggling to get a life. The job may be super cool, the pay may be astronomical, but they're heading nowhere, and however hard they work, however many shares they earn, they're never going to be as rich as Bill. And besides, with all the hours they're putting in, their best relationships are on e-mail. Something's got to give.",
+      "published_year": 2004,
+      "rating": 3.88,
+      "num_pages": 371,
+      "ratings_count": 436
+    }
+  },
+  {
+    "pk": 87,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007179824,
+      "isbn10": "0007179820",
+      "title": "Miss Wyoming",
+      "author": "Douglas Coupland",
+      "category": 10,
+      "image": "87.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=2zoTKFNdxpIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The brilliant new novel from the bestselling cult author of them all. Susan and John need to disappear -- Susan and John need to find each other. Meet Susan Colgate -- Miss Wyoming. Winner of a hundred teen pageants, child TV soap star, owner of a hideously pushy mother... and now reduced to small, brainless parts in small, brainless movies. Oh, and sole survivor of Flight 802. If she were to walk away from the wreckage now, before the emergency crews get here, she could disappear and nobody would ever know... Meet John Johnson -- action film producer (Bel Air P. I... um, Bel Air P. I. 2), occasional sado-masochist, junkie. He just died -- but only for 5 minutes. But while he was gone, he saw a vision of a woman's face and realized that it was time to escape, to ditch the baggage of being horny, rich, lonely John Johnson and to lose himself. To disappear. Wouldn't it be nice if they were to find themselves and get together?In many ways a reprise of Girlfriend in a Coma, Miss Wyoming represents a further leap forwards into the World According to Coupland -- a witty, genuinely funny look at who we are, how we can change, and how we can make a difference.",
+      "published_year": 2004,
+      "rating": 3.48,
+      "num_pages": 320,
+      "ratings_count": 110
+    }
+  },
+  {
+    "pk": 89,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007189953,
+      "isbn10": "0007189958",
+      "title": "Where Rainbows End",
+      "author": "Cecelia Ahern",
+      "category": 10,
+      "image": "89.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=PA7t62vA7SAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The new warm and absorbing story from the author of PS, I LOVE YOU is a bittersweet tale of childhood friends Rosie and Alex whose relationship must survive many trials and tribulations, not least the discovery of their true feelings for one another.From naughty children to rebellious teenagers and mixed-up twenty- and thirty-somethings, Rosie and Alex have stuck by each other through thick and thin, even when Alex moved across the Atlantic to Boston and Rosie fell pregnant as a teenager. Alex supportsRosie through one of the most difficult times of her life -- a time when she should be out partying and going to university but is instead changing nappies and coping with a screaming baby. In return, Rosie is there for Alex when he strugglesthrough his medical internship and copes with a messy divorce. Throughout the ups and downs of each other's lives, they have remained a constant, a shoulder to cry on, someone to laugh and share their innermost feelings with.But can their friendship survive the years and the miles and, more critically, when they each marry someone else? Were they meant to be more than just good friends all along? Misunderstandings, circumstances and sheer bad luck",
+      "published_year": 2004,
+      "rating": 3.94,
+      "num_pages": 454,
+      "ratings_count": 642
+    }
+  },
+  {
+    "pk": 90,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007190683,
+      "isbn10": "0007190689",
+      "title": "Poirot",
+      "author": "Agatha Christie",
+      "category": 1,
+      "image": "90.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=lbOOJGLxM9MC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The final POIROT omnibus, featuring the last four appearances of the detective's side-kick, the sleuthing crime novelist Ariadne Oliver: Third Girl, Hallowe'en Party, Elephants Can Remember and The Pale Horse. Poirot and Mrs Oliver continue their sleuthing in the 1960s in four uncharacteristically 'modern' novels with an added twist of danger...Third Girl Poirot finally admits he is growing old as a perplexed girl thinks she may have killed someone. Here Christie dragged Poirot into the swinging 60s and effectively squared him up against a world featuring sex, drugs and hippies. Hallowe'en Party A teenage murder witness is drowned in a tub of apples. This was only the second time Christie wrote about the death of a child, and is all the more engrossing for it. Elephants Can Remember An old husband and wife double murder has never been solved -- until now. This was the very last Poirot story that Agatha Christie wrote, and garnered good reviews. The Pale Horse A priest's death leads to sinister goings-on in an old country inn. This bonus novel featured Mrs Oliver for once without Poirot and was one of Christie's darkest stories, blending witchcraft and murder.",
+      "published_year": 2005,
+      "rating": 4.2,
+      "num_pages": 727,
+      "ratings_count": 83
+    }
+  },
+  {
+    "pk": 91,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007191925,
+      "isbn10": "0007191928",
+      "title": "The Art of The Lord of the Rings",
+      "author": "Gary Russell",
+      "category": 10,
+      "image": "91.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=zl-PPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The definitive guide to the design of the movie, incorporating the best artwork from the trilogy plus many never-before-published paintings, sketches, digital shots and photos.With complete access to artwork created over a five-year period, this authoritative and insightful book illustrates the creative development of the entire Lord of the Rings movie trilogy.This official book contains over 400 exclusive images; the very best artworks from the first three Art books are collected together, many much larger than they have been seen before, with all-new text and information and new interviews with many of the artists. In addition, the book includes 100 unpublished artworks from the extended Director's cuts of the three films, and digital imagery and designs not available when the first books were published.Printed on high-quality art paper, this lavish book is ideal for Tolkien collectors, film enthusiasts and art students and finally allows the massive undertaking of making The Lord of the Rings trilogy to be fully appreciated.",
+      "published_year": 2004,
+      "rating": 4.52,
+      "num_pages": 224,
+      "ratings_count": 12
+    }
+  },
+  {
+    "pk": 92,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007195305,
+      "isbn10": "0007195303",
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "category": 9,
+      "image": "92.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=CVS9a6lC5CwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "An epic narrative that takes a look at slavery in all of its moral complexities.",
+      "published_year": 2004,
+      "rating": 3.83,
+      "num_pages": 388,
+      "ratings_count": 437
+    }
+  },
+  {
+    "pk": 93,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007195718,
+      "isbn10": "0007195710",
+      "title": "Discover Your Destiny with the Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "category": 10,
+      "image": "93.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=4hVbNc8rRfEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A potent pathway to self-awakening that will help you to live your greatest life and claim the happiness, prosperity and inner peace that you deserve. From the author of the international bestseller, The Monk Who Sold His Ferrari.",
+      "published_year": 2004,
+      "rating": 3.9,
+      "num_pages": 240,
+      "ratings_count": 1956
+    }
+  },
+  {
+    "pk": 94,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007204441,
+      "isbn10": "0007204442",
+      "title": "Naked Lunch",
+      "author": "William S. Burroughs",
+      "category": 10,
+      "image": "94.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=1B36S7t4k5AC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The anarchic, phenomenally strong-selling classic from the godfather of the Beats: revitalised with a cool new jacket. WELCOME TO INTERZONE...Say hello to Bradley the Buyer, the best narcotics agent in the business. Attend international playboy A.J.'s annual party, where the punch is to be treated with extreme caution. Meet Dr 'Fingers' Schafer, the Lobotomy Kid and his giant centipede, 'The Complete American De-anxietized Man.' And enter the dark and infernal mind of Bill Lee as he pursues his daily quest for the ultimate merchandise...Provocative, influential, morbidly fascinating, Naked Lunch is an apocalyptic ride through the darker recesses of the human psyche.",
+      "published_year": 2005,
+      "rating": 3.44,
+      "num_pages": 289,
+      "ratings_count": 478
+    }
+  },
+  {
+    "pk": 95,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007204465,
+      "isbn10": "0007204469",
+      "title": "Tropic of Miscellaneous",
+      "author": "Henry Miller",
+      "category": 1,
+      "image": "95.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=ProgRjTL8FIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Miller's groundbreaking first novel, banned in Britain for almost thirty years, now reinvigorated in a new Harper Perennial Modern Classics edition. A penniless and as yet unpublished writer, Henry Miller arrived in Paris in 1930. Leaving behind a disintegrating marriage and an unhappy career in America, he threw himself into the low-life of bohemian Paris with unwavering gusto. A fictional account of Miller's adventures amongst the prostitutes and pimps, the penniless painters and writers of Montparnasse, Tropic of Miscellaneous is an extravagant and rhapsodic hymn to a world of unrivalled eroticism and freedom. Tropic of Miscellaneous's 1934 publication in France was hailed by Samuel Beckett as 'a momentous event in the history of modern writing'. The novel was subsequently banned in the UK and the USA and not released for publication for a further thirty years.",
+      "published_year": 2005,
+      "rating": 3.69,
+      "num_pages": 336,
+      "ratings_count": 709
+    }
+  },
+  {
+    "pk": 96,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780007205585,
+      "isbn10": "0007205589",
+      "title": "Close Range",
+      "author": "Annie Proulx",
+      "category": 1,
+      "image": "96.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=f-zI3bgDiCAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The title story in this collection of shorts now a film from Ang Lee.",
+      "published_year": 2006,
+      "rating": 3.99,
+      "num_pages": 318,
+      "ratings_count": 466
+    }
+  },
+  {
+    "pk": 97,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020199854,
+      "isbn10": "0020199856",
+      "title": "The Love of the Last Tycoon",
+      "author": "F. Scott Fitzgerald",
+      "category": 1,
+      "image": "97.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=3EDbEHca_k8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Depicts the inner-workings of the Hollywood movie industry and its impact on the fabric of American life.",
+      "published_year": 1994,
+      "rating": 3.65,
+      "num_pages": 169,
+      "ratings_count": 6836
+    }
+  },
+  {
+    "pk": 98,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020264736,
+      "isbn10": "0020264739",
+      "title": "The Song of Rhiannon",
+      "author": "Evangeline Walton",
+      "category": 1,
+      "image": "98.jpg",
+      "price": 20,
+      "image_url": "",
+      "description": "A retelling of The Mabinogion in novel form. Manawydon finally unites with Rhiannon - an aspect of the Goddess - but his happiness is shaken by the appearance of the Gray Man, who seeks vengeance against the living and especially against one who would claim the Goddess.",
+      "published_year": 1992,
+      "rating": 4.02,
+      "num_pages": 208,
+      "ratings_count": 247
+    }
+  },
+  {
+    "pk": 99,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020360759,
+      "isbn10": "0020360754",
+      "title": "Heart Songs and Other Stories",
+      "author": "Annie Proulx",
+      "category": 1,
+      "image": "99.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=_K2fswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Before she wrote her Pulitzer Prize-winning bestseller The Shipping News, E. Annie Proulx was already producing some of the finest short fiction in the country. Here are her collected stories, including two new works never before anthologized. These stories reverberate with rural tradition, the rites of nature, and the rituals of small-town life. The country is blue-collar New England; the characters are native families and the dispossessed working class, whose heritage is challenged by the neorural bourgeoisie from the city; and the themes are as elemental as the landscape: revenge, malice, greed, passion. Told with skill and profundity and crafted by a master storyteller, these are lean, tough tales of an extraordinary place and its people.",
+      "published_year": 1995,
+      "rating": 3.93,
+      "num_pages": 203,
+      "ratings_count": 1822
+    }
+  },
+  {
+    "pk": 100,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020442608,
+      "isbn10": "0020442602",
+      "title": "The voyage of the Dawn Treader",
+      "author": "Clive Staples Lewis",
+      "category": 1,
+      "image": "100.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=fDD3CfYb70cC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The \"Dawn Treader\" is the first ship Narnia has seen in centuries. King Caspian has built it for his voyage to find the seven lords, good men whom his evil uncle Mizaz banished when he usurped the throne. The journey takes Edmund, Lucy, and their cousin Eustace to the Eastern Islands, beyond the Silver Sea, toward Aslan's country at the End of the World. Illustrations.",
+      "published_year": 1970,
+      "rating": 4.09,
+      "num_pages": 216,
+      "ratings_count": 2869
+    }
+  },
+  {
+    "pk": 101,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020442806,
+      "isbn10": "0020442807",
+      "title": "The Chronicles of Narnia: Lion, the witch and the wardrobe",
+      "author": "Clive Staples Lewis",
+      "category": 1,
+      "image": "101.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/books/content?id=JhyVokzKnAYC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70lGDkLVkvOU56TsmNVyEWQL9eycwWnWvSpxMk_5CVljEoNJwZW5T3iqVAb3Sf6QZUFV-bvx9LGPts2oAWVT8dZjCpfGgDEmd6PSyrW5xN1JMkD4FI8e5hVXw2QP6tUhecOovde",
+      "description": "Lucy is the first to find the secret of the wardrobe in the professor's mysterious old house. At first her brothers and sister don't believe her when she tells of her visit to the land of Narnia. But soon Edmund, then Peter and Susan step through the wardrobe themselves. In Narnia they find a country buried under the evil enchantment of the White Witch. When they meet the Lion Aslan, they realize they've been called to a great adventure and bravely join the battle to free Narnia from the Witch's sinister spell.",
+      "published_year": 1978,
+      "rating": 4.26,
+      "num_pages": 1425,
+      "ratings_count": 1446
+    }
+  },
+  {
+    "pk": 102,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020518600,
+      "isbn10": "0020518609",
+      "title": "The Short Stories of Ernest Hemingway",
+      "author": "Ernest Hemingway",
+      "category": 1,
+      "image": "102.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=Len1AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Forty-nine stories reflect much of the intensity of Hemingway's own life and environment",
+      "published_year": 1986,
+      "rating": 4.26,
+      "num_pages": 499,
+      "ratings_count": 106
+    }
+  },
+  {
+    "pk": 103,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780020867401,
+      "isbn10": "0020867409",
+      "title": "The Screwtape Letters ; With, Screwtape Proposes a Toast",
+      "author": "Clive Staples Lewis",
+      "category": 8,
+      "image": "103.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/books/content?id=WOu8ZKUAgpEC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70iwArQ61uFY2yUT91OxHO3qO-e0DkXILykSLgmmM_LLk4lYGuJ_BNM3T9epf1QYKZ6FPsgewyLJX4iu7iG7GvzSlCi9eAu56j4Cgs87HDcn7UKxbeDW7sINimnhPRPeXwlFvbJ",
+      "description": "One of C.S. Lewis's most imaginative creations, this world-famous book is a humorous correspondence between the devil Screwtape and his apprentice Wormwood, whose job is to produce a human's soul for eternity in hell. Filled with astute insights into temptation, repentance, and grace, this wonderful tale intelligently explores what it means to live a good, honest life and is a favorite of Lewis fans.",
+      "published_year": 1982,
+      "rating": 4.22,
+      "num_pages": 172,
+      "ratings_count": 313
+    }
+  },
+  {
+    "pk": 104,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780023513206,
+      "isbn10": "0023513209",
+      "title": "Reason in History",
+      "author": "Georg Wilhelm Friedrich Hegel",
+      "category": 10,
+      "image": "104.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=BCvcYQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A General Introduction to the Philosophy of History",
+      "published_year": 1953,
+      "rating": 3.64,
+      "num_pages": 95,
+      "ratings_count": 430
+    }
+  },
+  {
+    "pk": 105,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780024181909,
+      "isbn10": "0024181900",
+      "title": "The Elements of Style",
+      "author": "William Strunk;Elwyn Brooks White",
+      "category": 10,
+      "image": "105.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=ADaMf2tEB7sC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The only style manual ever to appear on the best-seller lists offers practical, fundamental advice on improving writing skills, promoting a style marked by simplicity, orderliness, and sincerity",
+      "published_year": 1979,
+      "rating": 4.2,
+      "num_pages": 85,
+      "ratings_count": 204
+    }
+  },
+  {
+    "pk": 106,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780024266408,
+      "isbn10": "002426640X",
+      "title": "The Presocratics",
+      "author": "Philip Wheelwright",
+      "category": 10,
+      "image": "106.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=V45eMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Library of Liberal Arts title.",
+      "published_year": 1966,
+      "rating": 4.04,
+      "num_pages": 352,
+      "ratings_count": 199
+    }
+  },
+  {
+    "pk": 107,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780026995016,
+      "isbn10": "0026995018",
+      "title": "Spandau",
+      "author": "Albert Speer",
+      "category": 9,
+      "image": "107.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/books/content?id=m6P4QwAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73o8B757ffh6_nrRjGF2Ec0Ka-y9lgg61-fum5cRpH4F7ZvFPBAbno2nbLrEGMezlrLIwFnZQjWU4QPkhBSDl_w5St7chFnsuS6KS9_9beKSjsoXfQM_13zhX1BQEs393zF8DLc",
+      "description": "He served as Hitler's architect, the undisputed master of the German war machine, and the one responsible for conscripted foreign labor in the Third Reich. And, when Albert Speer was captured and sentenced at Nuremberg -- after becoming the only defendant to plead guilty -- he started keeping this secret diary, much of it on toilet paper. After 20 years of imprisonment, he found 25,000 of the smuggled pages waiting for him, and from those entries he shaped this deeply powerful document.",
+      "published_year": 1976,
+      "rating": 4.12,
+      "num_pages": 463,
+      "ratings_count": 6
+    }
+  },
+  {
+    "pk": 108,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780027054903,
+      "isbn10": "002705490X",
+      "title": "The Rumble Seat Pony",
+      "author": "Clarence William Anderson",
+      "category": 10,
+      "image": "108.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/googlebooks/images/no_cover_thumb.gif",
+      "description": "While riding in the rumble seat of their old yellow car, three children spot and adopt a neglected pony.",
+      "published_year": 1971,
+      "rating": 4.17,
+      "num_pages": 46,
+      "ratings_count": 24
+    }
+  },
+  {
+    "pk": 109,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780027897500,
+      "isbn10": "0027897508",
+      "title": "The Journey with Grandmother",
+      "author": "Edith Unnerstad",
+      "category": 10,
+      "image": "109.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/googlebooks/images/no_cover_thumb.gif",
+      "description": "A Swedish boy long ago accompanies his ... [relatives] fromn their Scandinavian farm to ... Russia in an attempt to earn money by making unusual objects from human hair.\" - Book Buyer's Guide.",
+      "published_year": 1960,
+      "rating": 3.75,
+      "num_pages": 197,
+      "ratings_count": 3
+    }
+  },
+  {
+    "pk": 110,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780029131695,
+      "isbn10": "0029131693",
+      "title": "Tyranny of the Majority",
+      "author": "Lani Guinier",
+      "category": 9,
+      "image": "110.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=aRF7XdcCLq0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "At last...the public hearing she was denied...These essays reveal keen powers of analysis applied to some of the most obdurate problems that bedevil electoral politics. Anyone who cares about the mechanisms of democracy should be engaged by her tough-minded explorations. It doesn't matter where you think you stand: it's all here, to argue or agree with. -- Henry Louis Gates, Jr. Lani Guinier's fascinating book is a prophetic intervention into a public conversation we desperately need to rejuvenate. There is no doubt that her powerful voice will produce good consequences for our nation and world. -- Cornel West, Author of Race Matters Intriguing and desperately needed... -- The San Francisco Chronicle",
+      "published_year": 1995,
+      "rating": 3.82,
+      "num_pages": 352,
+      "ratings_count": 39
+    }
+  },
+  {
+    "pk": 111,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780029221303,
+      "isbn10": "0029221307",
+      "title": "The Origins of the Civil Rights Movement",
+      "author": "Aldon D. Morris",
+      "category": 9,
+      "image": "111.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=7vyHY9DWcu8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "A blending of scholarly research and interviews with many of the figures who launched the civil rights movement in the 1960s and 1970s records the events of the movement's tumultuous first decade",
+      "published_year": 1986,
+      "rating": 4.04,
+      "num_pages": 368,
+      "ratings_count": 145
+    }
+  },
+  {
+    "pk": 112,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780029227961,
+      "isbn10": "0029227968",
+      "title": "Presidential Power and the Modern Presidents",
+      "author": "Richard E. Neustadt",
+      "category": 9,
+      "image": "112.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=elGozulX_o8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "description": "Suggests a theory of presidential power, and tests it against the events in the administrations of the postwar presidents",
+      "published_year": 1991,
+      "rating": 3.79,
+      "num_pages": 384,
+      "ratings_count": 277
+    }
+  },
+  {
+    "pk": 113,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780030420566,
+      "isbn10": "0030420563",
+      "title": "Rest, Rabbit, Rest",
+      "author": "Jacquelyn Reinach;Richard Hefter",
+      "category": 1,
+      "image": "113.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=8-40_Zrp5voC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Rabbit's schedule keeps him so busy his friends have to trick him into resting.",
+      "published_year": 1978,
+      "rating": 4.01,
+      "num_pages": 32,
+      "ratings_count": 88
+    }
+  },
+  {
+    "pk": 114,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780030547744,
+      "isbn10": "0030547741",
+      "title": "Where the Red Fern Grows",
+      "author": "Wilson Rawls",
+      "category": 1,
+      "image": "114.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=IHpRwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A young boy living in the Ozarks achieves his heart's desire when he becomes the owner of two redbone hounds and teaches them to be champion hunters.",
+      "published_year": 2000,
+      "rating": 4.37,
+      "num_pages": 288,
+      "ratings_count": 95
+    }
+  },
+  {
+    "pk": 115,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060000141,
+      "isbn10": "0060000147",
+      "title": "Poppy's Return",
+      "author": "Avi",
+      "category": 1,
+      "image": "115.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=XbcMJQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "There's trouble at Gray House, the girlhood home that Poppy left long ago. Poppy's family has called her back to save them all—mother, father, sisters and brothers, and dozens and dozens of deer mouse cousins. Poppy invites her rebellious son, Junior, to join her on the long trip across Dimwood Forest, hoping the journey will bring them closer together. But with Junior's skunk pal, Mephitis, and Ereth, the cantankerous porcupine, in tow—sugared slug soup!—Poppy and Junior may be in for unexpected adventure.",
+      "published_year": 2006,
+      "rating": 3.99,
+      "num_pages": 256,
+      "ratings_count": 1086
+    }
+  },
+  {
+    "pk": 116,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060001537,
+      "isbn10": "0060001534",
+      "title": "Diary of a Spider",
+      "author": "Doreen Cronin",
+      "category": 1,
+      "image": "116.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=UWvZo2pIhzMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "This is the diary ... of a spider. But don't be worried – he's more scared of you and your gigantic shoe! Actually, he's a lot like you. He goes to gym class and has Grandparents' Day at school. But he also spins sticky webs, scales walls, and takes wind–catching lessons. Lucky for him, his best friend is a fly! Doreen Cronin and Harry Bliss, the team behind the #1 bestselling Diary Of A Worm, spin a hilarious tale about the upside–down web world of an eight–legged charmer and his unlikely friend, Fly.",
+      "published_year": 2005,
+      "rating": 4.25,
+      "num_pages": 40,
+      "ratings_count": 7903
+    }
+  },
+  {
+    "pk": 117,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060004507,
+      "isbn10": "0060004509",
+      "title": "An Old-Fashioned Thanksgiving",
+      "author": "Louisa May Alcott;James Bernardin",
+      "category": 1,
+      "image": "117.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=SKYr4V6C1M0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "An adaptation of the original story follows the activities of seven children in nineteenth-century New England as they prepare for the Thanksgiving holiday while Mother is away caring for Grandmother.",
+      "published_year": 2005,
+      "rating": 3.7,
+      "num_pages": 32,
+      "ratings_count": 599
+    }
+  },
+  {
+    "pk": 118,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060005696,
+      "isbn10": "0060005696",
+      "title": "The Paradox of Choice",
+      "author": "Barry Schwartz",
+      "category": 10,
+      "image": "118.jpg",
+      "price": 20,
+      "image_url": "https://books.google.ie/books/content?id=g422yyua-P8C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70zfrxo_1uf2RN3-M2tecHoEn_8Qiu_a7_MF50r2NoxTUxZy6954xrhdyeHB4U5cAE2lXnpjFzghl0PAtIq1k8Exgjd-YnMAHiefilWMWIWn0QDRy3AvOOwTsZjvL4eVMhIJS7D",
+      "description": "The author of The Battle for Human Nature explains why too much choice has led to the ever increasing complexity of everyday decisions, why too much of a good thing has become detrimental to human psychological and emotional well-being, and how to focus our lives on making the right choices. Reprint. 35,000 first printing.",
+      "published_year": 2005,
+      "rating": 3.84,
+      "num_pages": 265,
+      "ratings_count": 23734
+    }
+  },
+  {
+    "pk": 119,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060009427,
+      "isbn10": "006000942X",
+      "title": "How to Read Literature Like a Professor",
+      "author": "Thomas C. Foster",
+      "category": 10,
+      "image": "119.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=irkUlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "What does it mean when a fictional hero takes a journey?. Shares a meal? Gets drenched in a sudden rain shower? Often, there is much more going on in a novel or poem than is readily visible on the surface—a symbol, maybe, that remains elusive, or an unexpected twist on a character—and there's that sneaking suspicion that the deeper meaning of a literary text keeps escaping you. In this practical and amusing guide to literature, Thomas C. Foster shows how easy and gratifying it is to unlock those hidden truths, and to discover a world where a road leads to a quest; a shared meal may signify a communion; and rain, whether cleansing or destructive, is never just rain. Ranging from major themes to literary models, narrative devices, and form, How to Read Literature Like a Professor is the perfect companion for making your reading experience more enriching, satisfying, and fun.",
+      "published_year": 2003,
+      "rating": 3.65,
+      "num_pages": 314,
+      "ratings_count": 14917
+    }
+  },
+  {
+    "pk": 120,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060012342,
+      "isbn10": "006001234X",
+      "title": "The Amazing Maurice and His Educated Rodents",
+      "author": "Terry Pratchett",
+      "category": 1,
+      "image": "120.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=1Z8KJQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Winner of the 2001 Carnegie Medal One rat, popping up here and there, squeaking loudly, and taking a bath in the cream, could be a plague all by himself. After a few days of this, it was amazing how glad people were to see the kid with his magical rat pipe. And they were amazing when the rats followed hint out of town. They'd have been really amazed if they'd ever found out that the rats and the piper met up with a cat somewhere outside of town and solemnly counted out the money. The Amazing Maurice runs the perfect Pied Piper scam. This streetwise alley cat knows the value of cold, hard cash and can talk his way into and out of anything. But when Maurice and his cohorts decide to con the town of Bad Blinitz, it will take more than fast talking to survive the danger that awaits. For this is a town where food is scarce and rats are hated, where cellars are lined with deadly traps, and where a terrifying evil lurks beneath the hunger-stricken streets.... Set in Terry Pratchett's widely popular Discworld, this masterfully crafted, gripping read is both compelling and funny. When one of the world's most acclaimed fantasy writers turns a classic fairy tale on its head, no one will ever look at the Pied Piper -- or rats -- the same way again!",
+      "published_year": 2001,
+      "rating": 4.05,
+      "num_pages": 256,
+      "ratings_count": 27463
+    }
+  },
+  {
+    "pk": 121,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060012380,
+      "isbn10": "0060012382",
+      "title": "The Wee Free Men",
+      "author": "Terry Pratchett",
+      "category": 1,
+      "image": "121.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=8PLblgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A nightmarish danger threatens from the other side of reality . . . Armed with only a frying pan and her common sense, young witch-to-be Tiffany Aching must defend her home against the monsters of Fairyland. Luckily she has some very unusual help: the local Nac Mac Feegle—aka the Wee Free Men—a clan of fierce, sheep-stealing, sword-wielding, six-inch-high blue men. Together they must face headless horsemen, ferocious grimhounds, terrifying dreams come true, and ultimately the sinister Queen of the Elves herself. . . . A Story of Discworld",
+      "published_year": 2004,
+      "rating": 4.27,
+      "num_pages": 390,
+      "ratings_count": 72982
+    }
+  },
+  {
+    "pk": 122,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060013134,
+      "isbn10": "0060013133",
+      "title": "Going Postal",
+      "author": "Terry Pratchett",
+      "category": 1,
+      "image": "122.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=5xRh5kkS84UC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Arch-swindler Moist Van Lipwig never believed his confidence crimes were hanging offenses -- until he found himself with a noose tightly around his neck, dropping through a trapdoor, and falling into ... a government job? By all rights, Moist should have met his maker. Instead, it's Lord Vetinari, supreme ruler of Ankh-Morpork, who promptly offers him a job as Postmaster. Since his only other option is a nonliving one, Moist accepts the position -- and the hulking golem watchdog who comes along with it, just in case Moist was considering abandoning his responsibilities prematurely. Getting the moribund Postal Service up and running again, however, may be a near-impossible task, what with literally mountains of decades-old undelivered mail clogging every nook and cranny of the broken-down post office building; and with only a few creaky old postmen and one rather unstable, pin-obsessed youth available to deliver it. Worse still, Moist could swear the mail is talking to him. Worst of all, it means taking on the gargantuan, money-hungry Grand Trunk clacks communication monopoly and its bloodthirsty piratical head, Mr. Reacher Gilt. But it says on the building neither rain nor snow nor glo m of ni t ... Inspiring words (admittedly, some of the bronze letters have been stolen), and for once in his wretched life Moist is going to fight. And if the bold and impossible are what's called for, he'll do it -- in order to move the mail, continue breathing, get the girl, and specially deliver that invaluable commodity that every human being (not to mention troll, dwarf, and, yes, even golem) requires: hope.",
+      "published_year": 2004,
+      "rating": 4.38,
+      "num_pages": 377,
+      "ratings_count": 924
+    }
+  },
+  {
+    "pk": 123,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060084387,
+      "isbn10": "0060084383",
+      "title": "Modern Mind",
+      "author": "Peter Watson",
+      "category": 10,
+      "image": "123.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=JVdMSavwwHoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "From Freud to Babbitt, from Animal Farm to Sartre to the Great Society, from the Theory of Relativity to counterculture to Kosovo, The Modern Mind is encyclopedic, covering the major writers, artists, scientists, and philosophers who produced the ideas by which we live. Peter Watson has produced a fluent and engaging narrative of the intellectual tradition of the twentieth century, and the men and women who created it.",
+      "published_year": 2002,
+      "rating": 4.27,
+      "num_pages": 847,
+      "ratings_count": 570
+    }
+  },
+  {
+    "pk": 124,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060085445,
+      "isbn10": "0060085444",
+      "title": "She Went All the Way",
+      "author": "Meg Cabot",
+      "category": 1,
+      "image": "124.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=3ANI1Q2Z-qsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "During an unfortunate helicopter ride into the wilds of Alaska, successful screenwriter Lou Calabrese is reunited with sexy Jack Townsend, but they are forced into a desperate battle for survival when they crash land in the wilderness.",
+      "published_year": 2002,
+      "rating": 3.69,
+      "num_pages": 357,
+      "ratings_count": 12297
+    }
+  },
+  {
+    "pk": 125,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060085490,
+      "isbn10": "0060085495",
+      "title": "Island",
+      "author": "Aldous Huxley",
+      "category": 1,
+      "image": "125.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=MB3VSMgJ5CkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A shipwrecked journalist discovers the beauty and serentity promoted by science on the island of Pala.",
+      "published_year": 1962,
+      "rating": 3.85,
+      "num_pages": 354,
+      "ratings_count": 17583
+    }
+  },
+  {
+    "pk": 126,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060088743,
+      "isbn10": "0060088745",
+      "title": "A Year in the Life of William Shakespeare",
+      "author": "James Shapiro",
+      "category": 7,
+      "image": "126.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=86bOlwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "1599 was an epochal year for Shakespeare and England Shakespeare wrote four of his most famous plays: Henry the Fifth, Julius Caesar, As You Like It, and, most remarkably, Hamlet; Elizabethans sent off an army to crush an Irish rebellion, weathered an Armada threat from Spain, gambled on a fledgling East India Company, and waited to see who would succeed their aging and childless queen. James Shapiro illuminates both Shakespeare’s staggering achievement and what Elizabethans experienced in the course of 1599, bringing together the news and the intrigue of the times with a wonderful evocation of how Shakespeare worked as an actor, businessman, and playwright. The result is an exceptionally immediate and gripping account of an inspiring moment in history.",
+      "published_year": 2006,
+      "rating": 4.09,
+      "num_pages": 333,
+      "ratings_count": 2229
+    }
+  },
+  {
+    "pk": 127,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060090371,
+      "isbn10": "0060090375",
+      "title": "Lucy Sullivan Is Getting Married",
+      "author": "Marian Keyes",
+      "category": 1,
+      "image": "127.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=qLl-3FGhPl0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "What happens when a psychic tells Lucy that she'll be getting married within the year? Her roommates panic! What is going to happen to their blissful existence of eating take-out, drinking too much wine, bringing men home, and never vacuuming? Lucy reassures her friends that she's far too busy arguing with her mother and taking care of her irresponsible father to get married. And then there's the small matter of not even having a boyfriend. But then Lucy meets gorgeous, unreliable Gus. Could he be the future Mr. Lucy Sullivan? Or could it be handsome Chuck? Or Daniel, the world's biggest flirt? Or even cute Jed, the new guy at work? Maybe her friends have something to worry about after all....",
+      "published_year": 2002,
+      "rating": 3.76,
+      "num_pages": 640,
+      "ratings_count": 42096
+    }
+  },
+  {
+    "pk": 128,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060092573,
+      "isbn10": "0060092572",
+      "title": "The Terminal Man",
+      "author": "Michael Crichton",
+      "category": 1,
+      "image": "128.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=9hERBFsuOcgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "A team of surgeons perform an operation on a violent paranoid in an attempt to electronically control his behavior.",
+      "published_year": 2002,
+      "rating": 3.36,
+      "num_pages": 266,
+      "ratings_count": 20825
+    }
+  },
+  {
+    "pk": 129,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060093747,
+      "isbn10": "0060093749",
+      "title": "The Art of the Novel",
+      "author": "Milan Kundera",
+      "category": 10,
+      "image": "129.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=H_3jAacr_U4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Kundera brilliantly examines the work of such important and diverse figures as Rabelais, Cervantes, Sterne, Diderot, Flaubert, Tolstoy, and Musil. He is especially penetrating on Hermann Broch, and his exploration of the world of Kafka's novels vividly reveals the comic terror of Kafka's bureaucratized universe. Kundera's discussion of his own work includes his views on the role of historical events in fiction, the meaning of action, and the creation of character in the post-psychological novel.",
+      "published_year": 2003,
+      "rating": 3.96,
+      "num_pages": 176,
+      "ratings_count": 3544
+    }
+  },
+  {
+    "pk": 130,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060094935,
+      "isbn10": "0060094931",
+      "title": "The Bromeliad Trilogy",
+      "author": "Terry Pratchett",
+      "category": 1,
+      "image": "130.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=IsFpvCusQsIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "In a world whose seasons are defined by Christmas sales and Spring Fashions, hundreds of tiny nomes live in the corners and crannies of a human-run department store. They have made their homes beneath the floorboards for generations and no longer remember -- or even believe in -- life beyond the Store walls. Until the day a small band of nomes arrives at the Store from the Outside. Led by a young nome named Masklin, the Outsiders carry a mysterious black box (called the Thing), and they deliver devastating news: In twenty-one days, the Store will be destroyed. Now all the nomes must learn to work together, and they must learn to think -- and to think BIG. Part satire, part parable, and part adventure story par excellence, master storyteller Terry Pratchett’s engaging trilogy traces the nomes’ flight and search for safety, a search that leads them to discover their own astonishing origins and takes them beyond their wildest dreams.",
+      "published_year": 2003,
+      "rating": 4.06,
+      "num_pages": 502,
+      "ratings_count": 5681
+    }
+  },
+  {
+    "pk": 131,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060099459,
+      "isbn10": "0060099453",
+      "title": "Merry Christmas, Amelia Bedelia",
+      "author": "Peggy Parish",
+      "category": 1,
+      "image": "131.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=SYCULYl-p-IC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "It's Christmas Eve, and Amelia Bedelia has to get the Rogers house ready for a visit from Aunt Myra. But with Amelia Bedelia in charge, this Christmas will be one of the funniest ever!",
+      "published_year": 2002,
+      "rating": 4.29,
+      "num_pages": 64,
+      "ratings_count": 2452
+    }
+  },
+  {
+    "pk": 132,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060175641,
+      "isbn10": "0060175648",
+      "title": "Identity",
+      "author": "Milan Kundera",
+      "category": 1,
+      "image": "132.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=D30ExgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Milan Kundera's Identity translated from the French by Linda Asher. There are situations in which we fail for a moment to recognize the person we are with, in which the identity of the other is erased while we simultaneously doubt our own. That also happens with couples -- indeed, above all with couples, because lovers fear more than anything else \"losing sight\" of the loved one. With stunning artfulness in expanding and playing variations on the meaningful moment, Milan Kundera has made this situation -- and the vague sense of panic it inspires -- the very fabric of his new novel. Here brevity goes hand in hand with intensity, and a moment of bewilderment marks the start of a labyrinthine journey during which the reader repeatedly crosses the border between the real and the unreal, between what occurs in the world outside and what the mind creates in its solitude. Of all contemporary writers, only Kundera can transform such a hidden and disconcerting perception into the material for a novel, one of his finest, most painful, and most enlightening. Which, surprisingly, turns out to be a love story.",
+      "published_year": 1998,
+      "rating": 3.68,
+      "num_pages": 176,
+      "ratings_count": 260
+    }
+  },
+  {
+    "pk": 133,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060177249,
+      "isbn10": "0060177241",
+      "title": "The thief of always",
+      "author": "Clive Barker",
+      "category": 1,
+      "image": "133.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=jKsrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "After a mysterious stranger promises to end his boredom with a trip to the magical Holiday House, ten-year-old Harvey learns that his fun has a high price",
+      "published_year": 1992,
+      "rating": 4.19,
+      "num_pages": 225,
+      "ratings_count": 22123
+    }
+  },
+  {
+    "pk": 134,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060192501,
+      "isbn10": "006019250X",
+      "title": "The Illustrated Alchemist",
+      "author": "Paulo Coelho;Alan R. Clarke;Moebius",
+      "category": 1,
+      "image": "134.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=1YX2usKBAMIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "This fable aims teaches the reader to open their mind, listen to their heart and most importantly, follow their dreams.",
+      "published_year": 1998,
+      "rating": 3.85,
+      "num_pages": 198,
+      "ratings_count": 236
+    }
+  },
+  {
+    "pk": 135,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060192778,
+      "isbn10": "0060192771",
+      "title": "Mars and Venus Book of Days",
+      "author": "John Gray",
+      "category": 10,
+      "image": "135.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=kd6YGT74stsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Provides daily reminders of the differences in behavior and communication styles of men and women",
+      "published_year": 1998,
+      "rating": 3.54,
+      "num_pages": 368,
+      "ratings_count": 18
+    }
+  },
+  {
+    "pk": 136,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060218058,
+      "isbn10": "0060218053",
+      "title": "The Last of the Really Great Whangdoodles",
+      "author": "Julie Andrews Edwards",
+      "category": 1,
+      "image": "136.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=D-iftWFTCcgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The Whangdoodle was once the wisest, the kindest, and the most extraordinary creature in the world. Then he disappeared and created a wonderful land for himself and all the other remarkable animals -- the ten-legged Sidewinders, the little furry Flukes, the friendly Whiffle Bird, and the treacherous, \"oily\" Prock. It was an almost perfect place where the last of the really great Whangdoodles could rule his kingdom with \"peace, love and a sense of fun\"-- apart from and forgotten by people. But not completely forgotten. Professor Savant believed in the Whangdoodle. And when he told the three Potter children of his search for the spectacular creature, Lindy, Tom, and Ben were eager to reach Whangdoodleland. With the Professor's help, they discovered the secret way. But waiting for them was the scheming Prock, who would use almost any means to keep them away from his beloved king. Only by skill and determination were the four Miscellaneousers able to discover the last of the really great Whangdoodles and grant him his heart's desire. Julie Andrews Edwards, star of stage and screen, has written a unique and beloved story that has become a modern classic. The Last of the Really Great Whangdoodles is sure to continue to delight readers everywhere. This edition includes a new foreword by the author.",
+      "published_year": 1996,
+      "rating": 4.25,
+      "num_pages": 209,
+      "ratings_count": 9963
+    }
+  },
+  {
+    "pk": 137,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060245603,
+      "isbn10": "0060245603",
+      "title": "Today I Feel Silly & Other Moods That Make My Day",
+      "author": "Jamie Lee Curtis",
+      "category": 1,
+      "image": "137.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=s_2GIF_c0T8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Today I feel silly. Mom says it's the heat. I put rouge on the cat and gloves on my feet. I ate noodles for breakfast and pancakes at night. I dressed like a star and was quite a sight. Today I am sad, my mood's heavy and gray. There's a frown on my face and it's been there all day. My best friend and I had a really big fight. She said that I tattled and I know that she's right. Silly, cranky, excited, or sad--everyone has moods that can change each day. Jamie Lee Curtis's zany and touching verse, paired with Laura Cornell's whimsical and original illustrations, helps kids explore, identify, and, even have fun with their ever-changing moods. Here's another inspired picture book from the bestselling author-illustrator team of Tell Me Again About the Night I Was Born and When I Was Little: A Four-Year-Old's Memoir of Her Youth.",
+      "published_year": 1998,
+      "rating": 4.15,
+      "num_pages": 40,
+      "ratings_count": 4030
+    }
+  },
+  {
+    "pk": 138,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060256579,
+      "isbn10": "0060256575",
+      "title": "The Missing Piece Meets the Big O",
+      "author": "Shel Silverstein",
+      "category": 1,
+      "image": "138.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=-m4gwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The missing piece sat alone waiting for someone to come along and take it somewhere.... The different ones it encounters - and what it discovers in its helplessness - are portrayed with simplicity and compassion in the words and drawings of Shel Silverstein.",
+      "published_year": 1981,
+      "rating": 4.33,
+      "num_pages": 104,
+      "ratings_count": 10010
+    }
+  },
+  {
+    "pk": 139,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060256753,
+      "isbn10": "0060256753",
+      "title": "Lafcadio, the Lion Who Shot Back",
+      "author": "Shel Silverstein",
+      "category": 1,
+      "image": "139.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=lmeJRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "\"You don't have to shoot me,\" says the young lion. \"I will be your rug and I will lie in front of your fireplace and I won't move a muscle and you can sit on me and toast all the marshmallows you want. I love marshmallows.\" But the hunter will not listen to reason, so what is there for a young lion to do? After eating up the hunter, Lafcadio takes the gun home and practices and practices until he becomes the world's greatest sharp-shooter. Now dressed in starched collars and fancy suits, and enjoying all the marshmallows he wants, Lafcadio is pampered and admired wherever he goes. But is a famous, successful, and admired lion a happy lion? Or is he a lion at all? Told and drawn with wit and gusto, Shel Silverstein's modern fable speaks not only to children but to us all!",
+      "published_year": 1963,
+      "rating": 4.15,
+      "num_pages": 112,
+      "ratings_count": 5191
+    }
+  },
+  {
+    "pk": 140,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060277406,
+      "isbn10": "0060277408",
+      "title": "The Secret Garden Cookbook",
+      "author": "Amy Cotler",
+      "category": 2,
+      "image": "140.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=c7E_HQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Frances Hodgson Burnett's The Secret Garden delights in the wondrous discoveries of lonely Mary Lennox as she slowly helps bring an abandoned garden back to life. It also delights in good food and a robust appetite, and the health and strength they can bring. Written at a time when many children were going hungry and even starving, Burnett's beloved story celebrates the magic of fresh air, new milk, homemade currant buns, and hearty, simple fare. Inside the pages of this cookbook are recipes for Mary's favorite foods, in and out of the garden, from porridge to roasted potatoes and eggs, all inspired by The Secret Garden and all adapted by chef and culinary historian Amy Coder from traditional Victorian recipes. Ms. Coder has supplemented these simple, wholesome recipes with fascinating tidbits on Victorian foods and Victorian eating customs. The result is a scrumptious tribute to Burnett's classic novel, a fascinating glimpse into the cooking customs of a historical period that is now long past, and a step-by-step guide to making delicious, tasty treats to enjoy in your own secret garden.",
+      "published_year": 1999,
+      "rating": 4.28,
+      "num_pages": 128,
+      "ratings_count": 142
+    }
+  },
+  {
+    "pk": 141,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060278427,
+      "isbn10": "0060278420",
+      "title": "Laura's Album",
+      "author": "William Anderson",
+      "category": 2,
+      "image": "141.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=_zTkqDlEV-UC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Though best known as the author of the Little House books, Laura Ingalls Wilder led a full, rich life that spanned almost a century of American history. All through her life Laura saved mementos of her past, including early writings, letters, drawings, and photographs, which have been lovingly preserved in private and public collections across the country. Now, for the first time ever, these photographs, writings, and memorabilia have been gathered together in one incredible volume by noted Little House historian William Anderson. Each gorgeous page of LAURA'S ALBUM is a doorway into the private world of Laura Ingalls Wilder, and offers a unique glimpse of what her life was like. Here is the fascinating true story of this remarkable pioneer woman's life as well as an unforgettable tale of our own American past.",
+      "published_year": 1998,
+      "rating": 4.3,
+      "num_pages": 80,
+      "ratings_count": 713
+    }
+  },
+  {
+    "pk": 142,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060391539,
+      "isbn10": "0060391537",
+      "title": "Quivers",
+      "author": "Robin Quivers",
+      "category": 9,
+      "image": "142.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=3Fj1h-gIbUsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "The outspoken co-host of The Howard Stern Show reveals her disturbing background as a sexually abused child of poverty and describes her ongoing struggle for recovery and her friendship with Stern. 200,000 first printing. $150,000 ad/promo. Tour.",
+      "published_year": 1995,
+      "rating": 3.51,
+      "num_pages": 341,
+      "ratings_count": 60
+    }
+  },
+  {
+    "pk": 143,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060502959,
+      "isbn10": "0060502959",
+      "title": "Moonspinners",
+      "author": "Mary Stewart",
+      "category": 1,
+      "image": "143.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=GRhFkTkZba4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "Working as a secretary at the British Embassy on Crete, Nicola Ferris is enjoying a day off when she meets up with two hiking companions who accidentally stumbled into the middle of a terrifying act of vengeance. Reprint.",
+      "published_year": 2003,
+      "rating": 4.03,
+      "num_pages": 400,
+      "ratings_count": 5868
+    }
+  },
+  {
+    "pk": 144,
+    "model": "books.book",
+    "fields": {
+      "isbn13": 9780060504083,
+      "isbn10": "0060504080",
+      "title": "Small Wonder",
+      "author": "Barbara Kingsolver",
+      "category": 10,
+      "image": "144.jpg",
+      "price": 20,
+      "image_url": "http://books.google.com/books/content?id=2mrrlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "description": "In her new essay collection, the beloved author of High Tide in Tucson brings to us, out of one of history's darker moments, an extended love song to the world we still have. Whether she is contemplating the Grand Canyon, her vegetable garden, motherhood, genetic engineering, or the future of a nation founded on the best of all human impulses, these essays are grounded in the author's belief that our largest problems have grown from the earth's remotest corners as well as our own backyards, and that answers may lie in both those places. Sometimes grave, occasionally hilarious, and ultimately persuasive, Small Wonder is a hopeful examination of the people we seem to be, and what we might yet make of ourselves.",
+      "published_year": 2003,
+      "rating": 4.01,
+      "num_pages": 264,
+      "ratings_count": 8738
+    }
+  }
+]
