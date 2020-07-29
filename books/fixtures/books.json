@@ -1926,7 +1926,7 @@
       "isbn10": "0020867409",
       "title": "The Screwtape Letters ; With, Screwtape Proposes a Toast",
       "author": "Clive Staples Lewis",
-      "category": 8,
+      "category": 1,
       "image": "103.jpg",
       "price": 20,
       "image_url": "https://books.google.ie/books/content?id=WOu8ZKUAgpEC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70iwArQ61uFY2yUT91OxHO3qO-e0DkXILykSLgmmM_LLk4lYGuJ_BNM3T9epf1QYKZ6FPsgewyLJX4iu7iG7GvzSlCi9eAu56j4Cgs87HDcn7UKxbeDW7sINimnhPRPeXwlFvbJ",
@@ -2022,7 +2022,7 @@
       "title": "The Rumble Seat Pony",
       "author": "Clarence William Anderson",
       "category": 10,
-      
+      "image": "",
       "price": 20,
       "image_url": "https://books.google.ie/googlebooks/images/no_cover_thumb.gif",
       "description": "While riding in the rumble seat of their old yellow car, three children spot and adopt a neglected pony.",
