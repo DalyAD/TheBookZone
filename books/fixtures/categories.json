@@ -32,7 +32,7 @@
   {
     "pk": 7,
     "model": "books.category",
-    "fields": {"name": "autobiography", "friendly_name": "autobiography"}
+    "fields": {"name": "autobiography", "friendly_name": "Autobiography"}
   },
   {
     "pk": 8,

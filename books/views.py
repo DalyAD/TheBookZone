@@ -2,6 +2,7 @@ from django.shortcuts import render, get_object_or_404, redirect, reverse
 from django.contrib import messages
 from django.db.models import Q
 from .models import Book, Category
+from django.db.models.functions import Lower
 
 
 def all_books(request):
@@ -17,10 +18,11 @@ def all_books(request):
         if 'sort' in request.GET:
             sortkey = request.GET['sort']
             sort = sortkey
-            if sortkey == 'title':
-                sortkey = 'lower_title'
-                books = books.annotate(lower_title=Lower('title'))
-
+            if sortkey == 'name':
+                sortkey = 'lower_name'
+                books = books.annotate(lower_name= Lower ('title'))
+            if sortkey == 'category':
+                sortkey = 'category__name'
             if 'direction' in request.GET:
                 direction = request.GET['direction']
                 if direction == 'desc':
