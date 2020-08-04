@@ -26,11 +26,11 @@
                         <table class="table table-sm table-borderless">
                             <thead class="text-black">
                                 <tr>
-                                    <th class="col">Book Info</th>
-                                    <th class="col"></th>
-                                    <th class="col">Price</th>
-                                    <th class="col">Qty</th>
-                                    <th class="col">Subtotal</th>
+                                    <th scope="col">Book Info</th>
+                                    <th scope="col"></th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Qty</th>
+                                    <th scope="col">Subtotal</th>
                                 </tr>
                             </thead>
                             
@@ -41,6 +41,7 @@
                                     </td>
                                     <td class="py-3">
                                         <p class="my-0"><strong>{{ item.book.title }}</strong></p>
+                                        <p class="my-0"><strong>Format:</strong>{% if item.book.has_variants %}{{ item.format|upper }}{% else %}N/A{% endif %}</p>
                                         <p class="my-0 small text-muted">ISBN 10: {{ item.book.isbn10|upper }}</p>
                                         <p class="my-0 small text-muted">ISBN 13: {{ item.book.isbn13|upper }}</p>
                                     </td>
