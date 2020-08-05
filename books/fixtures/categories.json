@@ -22,7 +22,7 @@
   {
     "pk": 5,
     "model": "books.category",
-    "fields": {"name": "true_crime", "friendly_name": "True crime"}
+    "fields": {"name": "crime", "friendly_name": "Crime"}
   },
   {
     "pk": 6,
