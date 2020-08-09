@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% load static %}
+{% load bag_tools %}
 
 {% block page_header %}
     <div class="container header-container">
@@ -24,6 +25,7 @@
                 {% if cart_items %}
                     <div class="table-responsive rounded">
                         <table class="table table-sm table-borderless">
+                        {{ cart_items }}
                             <thead class="text-black">
                                 <tr>
                                     <th scope="col">Book Info</th>
@@ -49,7 +51,7 @@
                                         <p class="my-0">€{{ item.book.price }}</p>
                                     </td>
                                     <td class="py-3 w-25">
-                                        <form class="form update-form" method="POST" action="">
+                                        <form class="form update-form" method="POST" action="{% url 'adjust_cart' item.item_id %}">
                                             {% csrf_token %}
                                             <div class="form-group">
                                                 <div class="input-group">
@@ -76,10 +78,10 @@
                                             </div>
                                         </form>
                                         <a class="update-link text-info">Update</a>
-                                        <a class="remove-link text-danger float-right" id="remove_{{ item.item_id }}" data-format="{{ item.book_format }}">Remove</a>
+                                        <a class="remove-link text-danger float-right" id="remove_{{ item.item_id }}" data-book_format="{{ item.book_format }}">Remove</a>
                                     </td>
                                     <td class="py-3">
-                                        <p class="my-0">€{{ item.subtotal }}</p>
+                                        <p class="my-0">€{{ item.book.price | calc_subtotal:item.quantity }}</p>
                                     </td>
                                 </tr>
                             {% endfor %}
@@ -139,11 +141,11 @@
     })
 
     // Remove item and reload on click
-    $('.remove-item').click(function(e) {
+    $('.remove-link').click(function(e) {
         var csrfToken = "{{ csrf_token }}";
         var itemId = $(this).attr('id').split('remove_')[1];
         var book_format = $(this).data('book_format');
-        var url = `/cart/remove/${itemId}`;
+        var url = `/cart/remove_from_cart/${itemId}/`;
         var data = {'csrfmiddlewaretoken': csrfToken, 'book_format': book_format};
 
         $.post(url, data)
