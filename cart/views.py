@@ -3,7 +3,6 @@ from django.shortcuts import render, redirect, reverse, HttpResponse
 
 def view_cart(request):
     """ A view to return the cart contents page """
-
     return render(request, 'cart/cart.html')
 
 
@@ -13,8 +12,7 @@ def add_to_cart(request, item_id):
     quantity = int(request.POST.get('quantity'))
     redirect_url = request.POST.get('redirect_url')
     book_format = None
-    if 'book_format' in request.POST:
-        book_format = request.POST['book_format']
+    book_format = request.POST['book_format']
     cart = request.session.get('cart', {})
 
     if book_format:
@@ -40,8 +38,7 @@ def adjust_cart(request, item_id):
 
     quantity = int(request.POST.get('quantity'))
     book_format = None
-    if 'book_format' in request.POST:
-        book_format = request.POST['book_format']
+    book_format = request.POST['book_format']
     cart = request.session.get('cart', {})
 
     if book_format:

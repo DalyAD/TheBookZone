@@ -26,7 +26,7 @@ class Book(models.Model):
     price = models.DecimalField(max_digits=6, decimal_places=2)
     image_url = models.URLField(max_length=1024, null=True, blank=True)
     description = models.TextField(max_length=999999999)
-    has_variants = models.BooleanField(default=False, null=True, blank=True)
+    book_format = models.BooleanField(default=False, null=True, blank=True)
     published_year = models.CharField(max_length=4, default=None)
     rating = models.DecimalField(max_digits=6, decimal_places=2, null=True, blank=True)
     num_pages = models.CharField(max_length=6, default=None)

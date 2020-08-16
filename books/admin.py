@@ -10,6 +10,7 @@ class BookAdmin(admin.ModelAdmin):
         'author',
         'category',
         'price',
+        'book_format',
         'rating',
         'image',
     )

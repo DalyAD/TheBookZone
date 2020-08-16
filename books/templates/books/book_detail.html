@@ -46,8 +46,8 @@
                     <form class="form" action="{% url 'add_to_cart' book.id %}" method="POST">
                         {% csrf_token %}
                         <div class="form-row">
-                            {% with book.has_variants as v %}
-                            {% if v %}
+                            {% with book.book_format as f %}
+                            {% if f %}
                                 <div class="col-12">
                                     <p><strong>Format:</strong></p>
                                     <select class="form-control rounded-0 w-50" name="book_format" id="id_book_format">
