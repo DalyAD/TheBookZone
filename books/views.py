@@ -2,6 +2,7 @@ from django.shortcuts import render, get_object_or_404, redirect, reverse
 from django.contrib import messages
 from django.db.models import Q
 from .models import Book, Category
+from .forms import BookForm
 from django.db.models.functions import Lower
 
 
@@ -67,3 +68,12 @@ def book_detail(request, book_id):
     return render(request, 'books/book_detail.html', context)
 
 
+def add_book(request):
+    """ Add a book to the library """
+    form = BookForm()
+    template = 'books/add_book.html'
+    context = {
+        'form': form,
+    }
+
+    return render(request, template, context)
