@@ -73,9 +73,9 @@ def add_book(request):
     if request.method == 'POST':
         form = BookForm(request.POST, request.FILES)
         if form.is_valid():
-            form.save()
+            book = form.save()
             messages.success(request, 'Successfull aded book!')
-            return redirect(reverse('add_book'))
+            return redirect(reverse('book_detail', args=[book.id]))
         else:
             messages.error(request, 'Failed to add book. Please ensure the form is valid.')
     else:
@@ -109,3 +109,11 @@ def edit_book(request, book_id):
         'book': book,
     }
     return render(request, template, context)
+
+
+def delete_book(request, book_id):
+    """ delete a book from the library """
+    book = get_object_or_404(Book, pk=book_id)
+    book.delete()
+    messages.success(request, 'Book deleted!')
+    return redirect(reverse('books'))
