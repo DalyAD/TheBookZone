@@ -4,6 +4,7 @@ from django.db.models import Q
 from .models import Book, Category
 from .forms import BookForm
 from django.db.models.functions import Lower
+from django.contrib.auth.decorators import login_required
 
 
 def all_books(request):
@@ -21,7 +22,7 @@ def all_books(request):
             sort = sortkey
             if sortkey == 'name':
                 sortkey = 'lower_name'
-                books = books.annotate(lower_name= Lower ('title'))
+                books = books.annotate(lower_name=Lower('title'))
             if sortkey == 'category':
                 sortkey = 'category__name'
             if 'direction' in request.GET:
@@ -68,8 +69,13 @@ def book_detail(request, book_id):
     return render(request, 'books/book_detail.html', context)
 
 
+@login_required
 def add_book(request):
     """ Add a book to the library """
+    if not request.user.is_superuser:
+        messages.error(request, 'Sorry, only store owners can do that.')
+        return redirect(reverse('home'))
+
     if request.method == 'POST':
         form = BookForm(request.POST, request.FILES)
         if form.is_valid():
@@ -88,9 +94,16 @@ def add_book(request):
     return render(request, template, context)
 
 
+@login_required
 def edit_book(request, book_id):
     """ edit a book in the library """
+
+    if not request.user.is_superuser:
+        messages.error(request, 'Sorry, only store owners can do that.')
+        return redirect(reverse('home'))
+
     book = get_object_or_404(Book, pk=book_id)
+
     if request.method == 'POST':
         form = BookForm(request.POST, request.FILES, instance=book)
         if form.is_valid():
@@ -111,9 +124,16 @@ def edit_book(request, book_id):
     return render(request, template, context)
 
 
+@login_required
 def delete_book(request, book_id):
     """ delete a book from the library """
+
+    if not request.user.is_superuser:
+        messages.error(request, 'Sorry, only store owners can do that.')
+        return redirect(reverse('home'))
+
     book = get_object_or_404(Book, pk=book_id)
+
     book.delete()
     messages.success(request, 'Book deleted!')
     return redirect(reverse('books'))
