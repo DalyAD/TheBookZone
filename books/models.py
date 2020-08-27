@@ -25,12 +25,12 @@ class Book(models.Model):
     image = models.ImageField(null=True, blank=True)
     price = models.DecimalField(max_digits=6, decimal_places=2)
     image_url = models.URLField(max_length=1024, null=True, blank=True)
-    description = models.TextField(max_length=999999999)
+    description = models.TextField(max_length=9999)
     book_format = models.BooleanField(default=False, null=True, blank=True)
     published_year = models.CharField(max_length=4, default=None)
     rating = models.DecimalField(max_digits=6, decimal_places=2, null=True, blank=True)
     num_pages = models.CharField(max_length=6, default=None)
-    ratings_count = models.CharField(max_length=999999999, default=None)
+    ratings_count = models.CharField(max_length=254, default=None)
 
     def __str__(self):
         return self.title
