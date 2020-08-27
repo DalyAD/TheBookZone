@@ -29,7 +29,7 @@ body {
 
 .shop-now-button {
     background: black;
-    color: white;
+    color: #0187bf;
     min-width: 260px;
 }
 
@@ -48,12 +48,16 @@ body {
     color: white;
 }
 
-.text-black {
-    color: #000 !important;
+.text-salmon {
+    color: darksalmon !important;
 }
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.bg-red {
+    background: #dc3545 !important;
 }
 
 .bg-black {
@@ -72,7 +76,7 @@ body {
 
 a.category-badge > span.badge:hover {
     background: #212529 !important;
-    color: #fff !important;
+    color: darksalmon !important;
 }
 
 .img-size {
@@ -80,6 +84,13 @@ a.category-badge > span.badge:hover {
     max-height: 500px;
     min-width: 300px; 
     max-width: 400px;
+}
+
+.btt-button:hover,
+.btt-button:active,
+.btt-button:focus {
+    background: black;
+    color: darksalmon !important;
 }
 
 .btt-button {
@@ -112,6 +123,83 @@ input[name='q']::placeholder {
     background: black;
     color: white !important;
 }
+
+.dropdown-item {
+    color: darksalmon !important;
+}
+
+.text-align {
+    text-align: center !important;
+}
+
+/* ------------------------------- bootstrap toasts */
+
+.message-container {
+    position: fixed;
+    top: 72px;
+    right: 15px;
+    z-index: 99999999999;
+}
+
+.custom-toast {
+    overflow: visible;
+}
+
+.toast-capper {
+    height: 2px;
+}
+
+/* from CSS-tricks.com: https://css-tricks.com/snippets/css/css-triangle/ */
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent; 
+    border-bottom: 10px solid black;
+    position: absolute;
+    top: -10px;
+    right: 36px;
+}
+
+/* Convenience classes - colors copied from Bootstrap */
+.arrow-primary {
+    border-bottom-color: #007bff !important;
+}
+
+.arrow-secondary {
+    border-bottom-color: #6c757d !important;
+}
+
+.arrow-success {
+    border-bottom-color: #28a745 !important;
+}
+
+.arrow-danger {
+    border-bottom-color: #dc3545 !important;
+}
+
+.arrow-warning {
+    border-bottom-color: #ffc107 !important;
+}
+
+.arrow-info {
+    border-bottom-color: #17a2b8 !important;
+}
+
+.arrow-light {
+    border-bottom-color: #f8f9fa !important;
+}
+
+.arrow-dark {
+    border-bottom-color: #343a40 !important;
+}
+
+.cart-notification-wrapper {
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 
 /* -------------------------------- Media Queries */
 
@@ -186,7 +274,7 @@ input[name='q']::placeholder {
 .btn-file input[type="file"] {
     position: absolute;
     top: 0;
-    right:0;
+    right: 0;
     min-width: 100%;
     min-height: 100%;
     opacity: 0;

@@ -1,8 +1,8 @@
 <div class="collapse navbar-collapse" id="main-nav">
     <ul class="navbar-nav w-auto mx-auto">
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="all-books-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                All Books
+            <a class="logo-font font-weight-bold nav-link text-salmon mr-5" href="#" id="all-books-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Sort All Books
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-books-link">
                 <a href="{% url 'books' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
@@ -12,11 +12,8 @@
             </div>
         </li>
 
-        <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="books-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Popular
-            </a>
-            <div class="dropdown-menu border-0" aria-labelledby="books-link">
+        <li class="nav-item">
+            <div class="border-0 navbar-nav pt-1" aria-labelledby="books-link">
                 <a href="{% url 'books' %}?category=fiction" class="dropdown-item">Fiction</a>
                 <a href="{% url 'books' %}?category=non_fiction" class="dropdown-item">Non-Fiction</a>
                 <a href="{% url 'books' %}?category=crime" class="dropdown-item">Crime</a>
@@ -26,7 +23,8 @@
                 <a href="{% url 'books' %}?category=history" class="dropdown-item">History</a>
                 <a href="{% url 'books' %}?category=religion" class="dropdown-item">Religion</a>
                 <a href="{% url 'books' %}?category=romance" class="dropdown-item">Romance</a>
-                <a href="{% url 'books' %}?category=fiction,non_fiction,true_crime,adventure,fantasy,autobiography,history,religion,romance,miscellaneous" class="dropdown-item">All Books</a>
+                <a href="{% url 'books' %}?category=miscellaneous" class="dropdown-item">Miscellaneous</a>
+                <a href="{% url 'books' %}?category=fiction,non_fiction,crime,adventure,fantasy,autobiography,history,religion,romance,miscellaneous" class="dropdown-item">All Books</a>
             </div>
         </li>
     </ul>

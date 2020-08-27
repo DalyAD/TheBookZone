@@ -1,4 +1,6 @@
-from django.shortcuts import render, redirect, reverse, HttpResponse
+from django.shortcuts import render, redirect, reverse, HttpResponse, get_object_or_404
+from django.contrib import messages
+from books.models import Book
 
 
 def view_cart(request):
@@ -9,6 +11,7 @@ def view_cart(request):
 def add_to_cart(request, item_id):
     """ Add a quantity of the specified book to the shopping cart """
 
+    book = get_object_or_404(Book, pk=item_id)
     quantity = int(request.POST.get('quantity'))
     redirect_url = request.POST.get('redirect_url')
     book_format = None
@@ -19,15 +22,13 @@ def add_to_cart(request, item_id):
         if item_id in list(cart.keys()):
             if book_format in cart[item_id]['books_by_format'].keys():
                 cart[item_id]['books_by_format'][book_format] += quantity
+                messages.success(request, f'Updated {book.title} quantity to {cart[item_id]["books_by_format"][book_format]}')
             else:
                 cart[item_id]['books_by_format'][book_format] = quantity
+                messages.success(request, f'Added {book.title} to your cart')
         else:
             cart[item_id] = {'books_by_format': {book_format: quantity}}
-    else:
-        if item_id in list(cart.keys()):
-            cart[item_id] += quantity
-        else:
-            cart[item_id] = quantity
+            messages.success(request, f'Added {book.title} to your cart')
 
     request.session['cart'] = cart
     return redirect(redirect_url)
@@ -36,6 +37,7 @@ def add_to_cart(request, item_id):
 def adjust_cart(request, item_id):
     """ Adjust the quantity of the specified product to the specified amount """
 
+    book = get_object_or_404(Book, pk=item_id)
     quantity = int(request.POST.get('quantity'))
     book_format = None
     book_format = request.POST['book_format']
@@ -44,15 +46,12 @@ def adjust_cart(request, item_id):
     if book_format:
         if quantity > 0:
             cart[item_id]['books_by_format'][book_format] = quantity
+            messages.success(request, f'Updated {book.title} quantity to {cart[item_id]["books_by_format"][book_format]}')
         else:
             del cart[item_id]['books_by_format'][book_format]
             if cart[item_id]['books_by_format']:
                 cart.pop(item_id)
-    else:
-        if quantity > 0:
-            cart[item_id] = quantity
-        else:
-            cart.pop(item_id)
+            messages.success(request, f'Removed {book.title} from your cart')
 
     request.session['cart'] = cart
     return redirect(reverse('view_cart'))
@@ -61,6 +60,7 @@ def adjust_cart(request, item_id):
 def remove_from_cart(request, item_id):
     """ Remove the specified item from the shopping cart """
     try:
+        book = get_object_or_404(Book, pk=item_id)
         book_format = None
         if 'book_format' in request.POST:
             book_format = request.POST['book_format']
@@ -70,11 +70,11 @@ def remove_from_cart(request, item_id):
             del cart[item_id]['books_by_format'][book_format]
             if not cart[item_id]['books_by_format']:
                 cart.pop(item_id)
-        else:
-            cart.pop(item_id)
+                messages.success(request, f'Removed {book.title} from your cart')
 
         request.session['cart'] = cart
         return HttpResponse(status=200)
 
     except Exception as e:
+        messages.error(request, f'Error removing item: {e}')
         return HttpResponse(status=500)
