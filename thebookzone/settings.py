@@ -28,7 +28,6 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['thebookzone.herokuapp.com', 'localhost']
 
-
 # Application definition
 
 INSTALLED_APPS = [
