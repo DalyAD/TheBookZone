@@ -219,7 +219,7 @@ input[name='q']::placeholder {
 
 .allauth-form-inner-content input {
     border-color: #000;
-    border-radius: 0;
+    border-radius: 10px;
 }
 
 .allauth-form-inner-content label:not([for='id_remember']) {
@@ -264,6 +264,14 @@ input[name='q']::placeholder {
 	color: #17a2b8; /* text-info */
 }
 
+
+/* Navbar padding on mobile */
+
+.mob-nav {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 /* Book Form */
 
 .btn-file {
@@ -303,14 +311,14 @@ input[name='q']::placeholder {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 180px;
     }
 }
 
 /* pad the top a bit when navbar is collapsed on mobile */
 @media (max-width: 991px) {
     .header-container {
-        padding-top: 116px;
+        padding-top: 156px;
     }
     body {
         height: calc(100vh - 116px);

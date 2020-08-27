@@ -1,7 +1,7 @@
 <li class="list-inline-item">
-    <a class="text-salmon nav-link d-block d-lg-none dropdown-item" href="#" id="mobile-search" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <a class="text-salmon nav-link d-block d-lg-none dropdown-item mob-nav" href="#" id="mobile-search" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         <div class="text-center">
-            <div><i class="fas fa-search fa-lg"></i></div>
+            <div><i class="fas fa-search fa-xs"></i></div>
             <p class="my-0">Search</p>
         </div>
     </a>
@@ -21,9 +21,9 @@
     </div>
 </li>
 <li class="list-inline-item dropdown">
-    <a class="text-salmon nav-link d-block d-lg-none dropdown-item" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <a class="text-salmon nav-link d-block d-lg-none dropdown-item mob-nav" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         <div class="text-center">
-            <div><i class="fas fa-user fa-lg"></i></div>
+            <div><i class="fas fa-user fa-xs"></i></div>
             <p class="my-0">My Account</p>
         </div>
     </a>
@@ -41,9 +41,9 @@
     </div>
 </li>
 <li class="list-inline-item">
-    <a class="{% if grand_total %}text-primary font-weight-bold{% else %}text-salmon{% endif %} nav-link d-block d-lg-none dropdown-item" href="{% url 'view_cart' %}">
+    <a class="{% if grand_total %}text-primary font-weight-bold{% else %}text-salmon{% endif %} nav-link d-block d-lg-none dropdown-item mob-nav" href="{% url 'view_cart' %}">
         <div class="text-center">
-            <div><i class="fas fa-shopping-bag fa-lg"></i></div>
+            <div><i class="fas fa-shopping-bag fa-xs"></i></div>
             <p class="my-0">
                 {% if grand_total %}
                     ${{ grand_total|floatformat:2 }}
