@@ -200,6 +200,41 @@ input[name='q']::placeholder {
     overflow-y: auto;
 }
 
+.display-4.logo-font.text-salmon {
+    font-size: 2rem;
+}
+
+.nav-link {
+    padding: 0.15rem;
+}
+
+.nav-link i.fa.lg {
+    font-size: 1rem;
+}
+
+.navbar-toggler {
+    padding: .6rem .6rem;
+    font-size: 1rem;
+}
+
+#delivery-banner h4 {
+    font-size: .9rem;
+}
+
+.btn.btn-outline-black.rounded-10,
+.btn.btn-black.rounded-10 {
+    padding: .375rem .375rem;
+}
+
+.btn.btn-outline-black.rounded-10.btn-lg,
+.btn.btn-black.rounded-10.btn-lg {
+    padding: .375rem .375rem;
+    font-size: .75rem;
+}
+
+.increment-qty, .decrement-qty {
+    padding: .25rem .5rem !important;
+}
 
 /* -------------------------------- Media Queries */
 
@@ -267,7 +302,7 @@ input[name='q']::placeholder {
 
 /* Navbar padding on mobile */
 
-.mob-nav {
+. {
     padding-right: 0px;
     padding-left: 0px;
 }
