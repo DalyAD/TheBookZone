@@ -80,10 +80,10 @@ a.category-badge > span.badge:hover {
 }
 
 .img-size {
-    min-height: 500px;
-    max-height: 500px;
-    min-width: 300px; 
-    max-width: 400px;
+    min-height: 425px;
+    max-height: 425px;
+    min-width: 200px;
+    max-width: 275px;
 }
 
 .btt-button:hover,
@@ -297,14 +297,6 @@ input[name='q']::placeholder {
 
 .allauth-form-inner-content a {
 	color: #17a2b8; /* text-info */
-}
-
-
-/* Navbar padding on mobile */
-
-. {
-    padding-right: 0px;
-    padding-left: 0px;
 }
 
 /* Book Form */

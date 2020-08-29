@@ -1,4 +1,5 @@
-from django.shortcuts import render, redirect, reverse, HttpResponse, get_object_or_404
+from django.shortcuts import render,\
+    redirect, reverse, HttpResponse, get_object_or_404
 from django.contrib import messages
 from books.models import Book
 
@@ -22,7 +23,9 @@ def add_to_cart(request, item_id):
         if item_id in list(cart.keys()):
             if book_format in cart[item_id]['books_by_format'].keys():
                 cart[item_id]['books_by_format'][book_format] += quantity
-                messages.success(request, f'Updated {book.title} quantity to {cart[item_id]["books_by_format"][book_format]}')
+                messages.success(request, f'Updated \
+                    {book.title} quantity to \
+                    {cart[item_id]["books_by_format"][book_format]}')
             else:
                 cart[item_id]['books_by_format'][book_format] = quantity
                 messages.success(request, f'Added {book.title} to your cart')
@@ -35,7 +38,8 @@ def add_to_cart(request, item_id):
 
 
 def adjust_cart(request, item_id):
-    """ Adjust the quantity of the specified product to the specified amount """
+    """ Adjust the quantity of the specified
+        product to the specified amount """
 
     book = get_object_or_404(Book, pk=item_id)
     quantity = int(request.POST.get('quantity'))
@@ -46,7 +50,9 @@ def adjust_cart(request, item_id):
     if book_format:
         if quantity > 0:
             cart[item_id]['books_by_format'][book_format] = quantity
-            messages.success(request, f'Updated {book.title} quantity to {cart[item_id]["books_by_format"][book_format]}')
+            messages.success(request, f'Updated \
+                {book.title} quantity to\
+                {cart[item_id]["books_by_format"][book_format]}')
         else:
             del cart[item_id]['books_by_format'][book_format]
             if cart[item_id]['books_by_format']:
@@ -70,7 +76,8 @@ def remove_from_cart(request, item_id):
             del cart[item_id]['books_by_format'][book_format]
             if not cart[item_id]['books_by_format']:
                 cart.pop(item_id)
-                messages.success(request, f'Removed {book.title} from your cart')
+                messages.success(request, f'Removed \
+                    {book.title} from your cart')
 
         request.session['cart'] = cart
         return HttpResponse(status=200)

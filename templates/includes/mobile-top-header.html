@@ -1,5 +1,5 @@
 <li class="list-inline-item">
-    <a class="text-salmon nav-link d-block d-lg-none dropdown-item " href="#" id="mobile-search" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <a class="text-salmon nav-link d-block d-lg-none dropdown-item" href="#" id="mobile-search" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         <div class="text-center">
             <div><i class="fas fa-search fa-lg"></i></div>
             <p class="my-0">Search</p>
@@ -21,7 +21,7 @@
     </div>
 </li>
 <li class="list-inline-item dropdown">
-    <a class="text-salmon nav-link d-block d-lg-none dropdown-item " href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <a class="text-salmon nav-link d-block d-lg-none dropdown-item" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         <div class="text-center">
             <div><i class="fas fa-user fa-lg"></i></div>
             <p class="my-0">My Account</p>
@@ -32,16 +32,16 @@
             {% if request.user.is_superuser %}
                 <a href="{% url 'add_book' %}" class="dropdown-item">Product Management</a>
             {% endif %}
-            <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
-            <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
+                <a href="{% url 'profile' %}" class="dropdown-item">My Profile</a>
+                <a href="{% url 'account_logout' %}" class="dropdown-item">Logout</a>
         {% else %}
-            <a href="{% url 'account_signup' %}" class="dropdown-item">Register</a>
-            <a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
+                <a href="{% url 'account_signup' %}" class="dropdown-item">Register</a>
+                <a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
         {% endif %}
     </div>
 </li>
 <li class="list-inline-item">
-    <a class="{% if grand_total %}text-primary font-weight-bold{% else %}text-salmon{% endif %} nav-link d-block d-lg-none dropdown-item " href="{% url 'view_cart' %}">
+    <a class="{% if grand_total %}text-primary font-weight-bold{% else %}text-salmon{% endif %} nav-link d-block d-lg-none text-salmon" href="{% url 'view_cart' %}">
         <div class="text-center">
             <div><i class="fas fa-shopping-bag fa-lg"></i></div>
             <p class="my-0">
