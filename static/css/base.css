@@ -62,6 +62,7 @@ body {
 
 .bg-black {
     background: #000 !important;
+    width: fit-content;
 }
 
 .overlay {
