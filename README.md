@@ -94,9 +94,9 @@ All wireframes were made using Balsamiq.
     <img src="wireframes/form-mobile.png">
 </div>
 
-## User Stories
+# User Stories
 
-# As a shopper
+## As a shopper
 
 — As a shopper I want to be able to view a list of books so that I can select some to purchase.
 
@@ -104,7 +104,7 @@ All wireframes were made using Balsamiq.
 
 — As a shopper I want to be able to easily view the total of my purchases at any time so that I can avoid spending too much.
 
-# Registration and accounts
+## Registration and accounts
   
 — As a site user I want to be able easily register for an account to so that I can have a personal account and be able to view my profile.
 
@@ -116,7 +116,7 @@ All wireframes were made using Balsamiq.
 
 — As a site user I want to be able have a personalized user profile to so that I can view my personal order history and order confirmations and save my payment information.
 
-# Sorting and searching
+## Sorting and searching
 
 - As a shopper I want to be able to sort the list of available books so that I can easily identify the best rated, best priced and categorically sorted books.
 
@@ -128,7 +128,7 @@ All wireframes were made using Balsamiq.
 
 - As a shopper I want to be able to easily see what I've searched for and the number of results so that I can quickly decide whether or not the book I want is available.
 
-# Purchasing and checkout 
+## Purchasing and checkout 
 
 - As a shopper I want to be able to easily select the format and quantity of a book when purchasing it so that I can ensure I dont accidentally select the wrong book, quantity or format.
 
@@ -140,9 +140,9 @@ All wireframes were made using Balsamiq.
 
 - As a shopper I want to be able to feel my personal and payment information is safe and secure so that I can confidently provide the needed information to make a purchase.
 
-## Features
+# Features
 
-# Books
+## Books
 
 In the books app I have 4 templates 2 of which are available to users and 2 reserved for admins.
 
@@ -160,7 +160,7 @@ them that the book is now in their cart. The quantity selector box is also valid
 admin users to edit any field on the book. The add book template will give users the option to add a new book with all the relevant fields and add a 
 default image should the admin not choose or forget to add a cover art to the book.
 
-# Cart
+## Cart
 
 In the cart app I have 6 templates. I use includes to manage the layout and create a responsive design on mobile devices.
 
@@ -171,7 +171,7 @@ books of different formats are added to the cart, only the one the user selects 
 delivery charge which is calculated at 10% of the cost and the grand total. There is also a message informing the user that should they spend x amount
 more they will receive free delivery. There is then 2 buttons, one to continue shopping and another to checkout securely.
 
-# Checkout
+## Checkout
 
 The checkout app has 2 templates, the first is for the checkout page and the second is for a checkout success page.
 
@@ -184,12 +184,12 @@ another to complete the payment.
 The second column details information for each item being purchased such as the book image, name, format, quantity and subtotal for each line item. With an
 order total, delivery cost and grand total.
 
-# Home
+## Home
 
 The home app extends the base template and has a simple landing page with a link to view all books in the library and a welcome banner. It is laid on an image
 sourced from google images.
 
-# Profiles
+## Profiles
 
 The profile app extends the base template and has 2 columns. The first has default delivery information which is auto populated if the user has chosen to save
 their information on a previous purchase. Below this there is a button for updating the users information if they have changed any details. 
@@ -202,7 +202,7 @@ The proiles app is also fully functional should a user wish to reset their passw
 If the user is an admin they will have an extra option in the account menu dropdown to add a new book to the library. This will open a new form requiring all
 the information needed for a book in the database.
 
-# Main Nav
+## Main Nav
 
 The main nav uses two rows. The first row includes the name of the site which links back to the home page, a search bar, and two buttons, the first for the profile and
 the second for the shopping cart which displays the current total of items in the cart.
@@ -210,14 +210,14 @@ the second for the shopping cart which displays the current total of items in th
 The second row has a main button which triggers a dropdown for sorting by price, category and rating. It has 11 other buttons, 10 for each genre and 1 other to display all
 books.
 
-# Mobile Header
+## Mobile Header
 
 The mobile header is split into 4 buttons, the main toggler, search bar, the account dropdown and the shopping cart. 
 
 The main toggler displays a dropdown menu with a link to the home page, an internal dropdown menu with sorting, and the other 11 buttons, 10 for each genre and 1 to display
 all books in the library.
 
-### Features Left to Implement
+## Features Left to Implement
 
 — In future development the two main things left to implement to make this a working site to take real payments from stripe and having a system to track inventory.
 
