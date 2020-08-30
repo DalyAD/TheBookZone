@@ -4,11 +4,11 @@ https://thebookzone.herokuapp.com//
 
 Welcome to the site and I hope you enjoy it. I created this site as a follow-on from my previous milestone project at https://ms3-community-books.herokuapp.com//
 
-I decided to keep the same theme as I believe the idea was sound but the implimentation from Flask was restrictive. Using Django I was able to achieve a much fuller
+I decided to keep the same theme as I believe the idea was sound but the implementation from Flask was restrictive. Using Django I was able to achieve a much fuller
 experience for users and really expand on the idea I initially had.
- 
+ 
 ## UX
- 
+ 
 I created the initial project as a place for people to share book recommendations between each other. Giving users full access to add, edit and delete entries as they see fit.
 
 With this project I decided that a better experience for users would involve having their own profiles and being able to add these books in multiple formats to their shopping
@@ -25,73 +25,73 @@ All wireframes were made using Balsamiq.
 ### Index - Desktop
 
 <div align="center">
-    <img src="wireframes/index-desktop.png">
+    <img src="wireframes/index-desktop.png">
 </div>
 
 ### Index - Mobile
 
 <div align="center">
-    <img src="wireframes/index-mobile.png">
+    <img src="wireframes/index-mobile.png">
 </div>
 
 ### Books - Desktop
 
 <div align="center">
-    <img src="wireframes/books-desktop.png">
+    <img src="wireframes/books-desktop.png">
 </div>
 
 ### Books - Mobile
 
 <div align="center">
-    <img src="wireframes/books-mobile.png">
+    <img src="wireframes/books-mobile.png">
 </div>
 
 ### Book Detail - Desktop
 
 <div align="center">
-    <img src="wireframes/books-detail-desktop.png">
+    <img src="wireframes/books-detail-desktop.png">
 </div>
 
 ### Book Detail - Mobile
 
 <div align="center">
-    <img src="wireframes/books-detail-mobile.png">
+    <img src="wireframes/books-detail-mobile.png">
 </div>
 
 ### Cart - Desktop
 
 <div align="center">
-    <img src="wireframes/cart-desktop.png">
+    <img src="wireframes/cart-desktop.png">
 </div>
 
 ### Cart - Mobile
 
 <div align="center">
-    <img src="wireframes/cart-mobile.png">
+    <img src="wireframes/cart-mobile.png">
 </div>
 
 ### Checkout - Desktop
 
 <div align="center">
-    <img src="wireframes/checkout-desktop.png">
+    <img src="wireframes/checkout-desktop.png">
 </div>
 
 ### Checkout - Mobile
 
 <div align="center">
-    <img src="wireframes/checkout-mobile.png">
+    <img src="wireframes/checkout-mobile.png">
 </div>
 
 ### Form - Desktop
 
 <div align="center">
-    <img src="wireframes/form-desktop.png">
+    <img src="wireframes/form-desktop.png">
 </div>
 
 ### Form - Mobile
 
 <div align="center">
-    <img src="wireframes/form-mobile.png">
+    <img src="wireframes/form-mobile.png">
 </div>
 
 # User Stories
@@ -105,16 +105,16 @@ All wireframes were made using Balsamiq.
 — As a shopper I want to be able to easily view the total of my purchases at any time so that I can avoid spending too much.
 
 ## Registration and accounts
-  
-— As a site user I want to be able easily register for an account to so that I can have a personal account and be able to view my profile.
+  
+— As a site user I want to be able to easily register for an account so that I can have a personal account and be able to view my profile.
 
 — As a site user I want to be able easily login or logout to so that I can access my personal account information.
 
-— As a site user I want to be able easily recover my password incase I forget it to so that I can recover access to my account.
+— As a site user I want to be able easily recover my password in case I forget it so that I can recover access to my account.
 
-— As a site user I want to be able receive an email confirmation after registration to so that I can verify that my account registration was successful.
+— As a site user I want to be able receive email confirmation after registration so that I can verify that my account registration was successful.
 
-— As a site user I want to be able have a personalized user profile to so that I can view my personal order history and order confirmations and save my payment information.
+— As a site user I want to be able to have a personalized user profile so that I can view my personal order history and order confirmations and save my payment information.
 
 ## Sorting and searching
 
@@ -130,7 +130,7 @@ All wireframes were made using Balsamiq.
 
 ## Purchasing and checkout 
 
-- As a shopper I want to be able to easily select the format and quantity of a book when purchasing it so that I can ensure I dont accidentally select the wrong book, quantity or format.
+- As a shopper I want to be able to easily select the format and quantity of a book when purchasing it so that I can ensure I don't accidentally select the wrong book, quantity or format.
 
 - As a shopper I want to be able to view items in my cart to be purchased so that I can identify the total cost of my purchase and all items I will receive.
 
@@ -147,8 +147,8 @@ All wireframes were made using Balsamiq.
 In the books app I have 4 templates 2 of which are available to users and 2 reserved for admins.
 
 - The books.html page extends the base template and displays a full catalog of all books in the database. Each book has an image, image url, price,
-rating and a link for the genre to display books specifically in that category. This page includes a horizontal rule which is resposive across all 
-browsers and ensures the site is layed out properly no matter how the user accesses it. The page also includes a convenient back to top button to
+rating and a link for the genre to display books specifically in that category. This page includes a horizontal rule which is responsive across all 
+browsers and ensures the site is laid out properly no matter how the user accesses it. The page also includes a convenient back to top button to
 make it more convenient for the user to jump back to the top of the page without having to scroll manually.
 
 - The book_detail.html page extends the base template and displays the detail for a specific book in the database. It displays the book cover on the
@@ -167,9 +167,9 @@ In the cart app I have 6 templates. I use includes to manage the layout and crea
 - The cart.html page includes information on each book that's been added to the cart, including the image, title, the format the user has selected,
 both ISBN numbers, the price and the subtotal for each item. In between the price and the subtotal there is a quantity selector box with full
 validation and 2 buttons, one to update to the desired quantity and the other to remove the item from the cart. This has also been made so that if two 
-books of different formats are added to the cart, only the one the user selects will be removed. Below this information there is  a cart total, a 
+books of different formats are added to the cart, only the one the user selects will be removed. Below this information there is  a cart total, a 
 delivery charge which is calculated at 10% of the cost and the grand total. There is also a message informing the user that should they spend x amount
-more they will receive free delivery. There is then 2 buttons, one to continue shopping and another to checkout securely.
+more will receive free delivery. There are then 2 buttons, one to continue shopping and another to checkout securely.
 
 ## Checkout
 
@@ -197,7 +197,7 @@ their information on a previous purchase. Below this there is a button for updat
 The second column has a list of orders the user has made with information on their truncated order number, order date and time, what they purchased and the 
 order total.
 
-The proiles app is also fully functional should a user wish to reset their password and will send them an email with a password reset link.
+The profiles app is also fully functional should a user wish to reset their password and will send them an email with a password reset link.
 
 If the user is an admin they will have an extra option in the account menu dropdown to add a new book to the library. This will open a new form requiring all
 the information needed for a book in the database.
@@ -224,62 +224,69 @@ all books in the library.
 ## Technologies Used
 
 — [JQuery](https://jquery.com)
- — The project uses **JQuery** to support some design and functionality.
+ — The project uses JQuery to support some design and functionality.
 
 — [Bootstrap](https://https://getbootstrap.com/)
- — The project uses **Bootstrap** to simplify the design process.
-    
+ — The project uses Bootstrap to simplify the design process.
+    
 — [Django](https://https://www.djangoproject.com/)
- — Django was used to create my application.
+ — Django was used to create my application.
+ 
+ — [Python](https://https://www.javascript.com/)
+ — Javascript was used to support design and functionality.
+ 
+ — [JavaScript](https://https://www.python.org/)
+ — Python was used to create the structure of my project..
+ 
 
 ## Testing
 
 1. Books App
- — I tested all buttons to make sure everything is linked correctly.
- — I ensured all books are displaying from the database with the correct information.
- — I tested the edit and delete functionality on multiple books then ensured that this information was reflected
- in the admin before changing them back to the original information.
- — I tested the genre tags to ensure that the categories displayed when one is clicked are correct.
- — I tested the sort and search parameters to make sure they sorting works correctly and that the search criteria displays
- results matched with the name or the description.
- — I tested the default image to ensure that if an entry does not have an image it will display a default one for the user.
- 
+ — I tested all buttons to make sure everything is linked correctly.
+ — I ensured all books are displayed from the database with the correct information.
+ — I tested the edit and delete functionality on multiple books then ensured that this information was reflected
+ in the admin before changing them back to the original information.
+ — I tested the genre tags to ensure that the categories displayed when one is clicked are correct.
+ — I tested the sort and search parameters to make sure they sorting works correctly and that the search criteria displays
+ results matched with the name or the description.
+ — I tested the default image to ensure that if an entry does not have an image it will display a default one for the user.
+ 
 
 2. Cart App
- — I tested all buttons to make sure everything is linked correctly. 
- — I tested the responsive design of all forms and elements to the smallest mobile devices of 320px.
- — I tested the bag by clicking on it without any items which displays a default message letting the user know that there
- is nothing in their cart.
- — Once I added a book I ensured all relevant information was being diaplyed correctly.
- — I tested the quantity selector box to ensure proper valitation if the user goes outside the desired range.
- —  I tested the update and remove buttons to ensure initial functionality. I also made sure that should have a book with multiple
- formats that only the desired format is affected.
- — I tested the prices of delivery and the free shipping banner in the shopping cart by changing the claculations to reflect this.
+ — I tested all buttons to make sure everything is linked correctly. 
+ — I tested the responsive design of all forms and elements to the smallest mobile devices of 320px.
+ — I tested the bag by clicking on it without any items which displays a default message letting the user know that there
+ is nothing in their cart.
+ — Once I added a book I ensured all relevant information was being displayed correctly.
+ — I tested the quantity selector box to ensure proper validation if the user goes outside the desired range.
+ —  I tested the update and remove buttons to ensure initial functionality. I also made sure that I should have a book with multiple
+ formats that only the desired format is affected.
+ — I tested the prices of delivery and the free shipping banner in the shopping cart by changing the calculations to reflect this.
 
- 3. Checkout App
-  — I tested all buttons to make sure everything is linked correctly.
-  — I tested the responsive design of all forms and elements to the smallest mobile devices of 320px.
-  — I tested all form validation to ensure all required fields would trigger a message to let the user know that the field is required.
-  — I tested the card element to make sure that the form was validating correctly and also displaying the correct messages if the card
-  information entered is incorrect or incomplete.
-  — I tested my webhooks and webhook handlers by leaving the page early and clicking the submit button multiple times. I did this to verify
-  that the webhook still created the payment intent with stripe. This ensures that the users order will still go through and they will not
-  be charged without us receiving their order.
+ 3. Checkout App
+  — I tested all buttons to make sure everything is linked correctly.
+  — I tested the responsive design of all forms and elements to the smallest mobile devices of 320px.
+  — I tested all form validation to ensure all required fields would trigger a message to let the user know that the field is required.
+  — I tested the card element to make sure that the form was validating correctly and also displaying the correct messages if the card
+  information entered is incorrect or incomplete.
+  — I tested my webhooks and webhook handlers by leaving the page early and clicking the submit button multiple times. I did this to verify
+  that the webhook still created the payment intent with stripe. This ensures that the users order will still go through and they will not
+  be charged without us receiving their order.
 
-  4. Home App
-  — I tested that the main button on the home page works.
-  — I tested that the image, banner and button elements were responsive on the smallest mobile devices of 320px.
+  4. Home App
+  — I tested that the main button on the home page works.
+  — I tested that the image, banner and button elements were responsive on the smallest mobile devices of 320px.
 
-  5. Media
-  — I tested that all images in the media folder were displaying correctly and corresponded to the correct entry in the database.
-  — I tested that the noimage.png file was automatically being assigned to entries that do not have an image uploaded.
+  5. Media
+  — I tested that all images in the media folder were displaying correctly and corresponded to the correct entry in the database.
+  — I tested that the noimage.png file was automatically being assigned to entries that do not have an image uploaded.
 
-  6. Profiles
-  — I tested that all links to the profile page and related pages worked correctly.
-  — I tested that the password reset link works by clicking forgot password and entering an email. I then received and email with a
-  link to reset my password, completed the form and submitted it. I then signed in with my new password.
-  — I tested the registration form by entering a temporary email. I received the email and clicked the link to register. I also checked
-  this in the admin to ensure the validated and primary boxes were ticked once the emails were vaildated.
+  6. Profiles
+  — I tested that all links to the profile page and related pages worked correctly.
+  — I tested that the password reset link works by clicking the forgot password and entering an email. I then received an email with a
+  link to reset my password, completed the form and submitted it. I then signed in with my new password.
+  — I tested the registration form by entering a temporary email. I received the email and clicked the link to register. I also checked
+  this in the admin to ensure the validated and primary boxes were ticked once the emails were validated.
 
 
 ## Deployment
@@ -291,7 +298,17 @@ I used Heroku to deploy my site using the following steps.
 3. Create a new app with Heroku.
 4. Add IP and PORT config variables to Heroku.
 5. Push my code to Heroku.
-6. In Heroku I made use of multiple environment variables to ensure functionality of AWS, Stripe, Gmail and Postgres.
+6. In Heroku I made use of multiple environment variables to ensure functionality of AWS, Stripe, Gmail and Postgres.(listed below)
+i - AWS_ACCESS_KEY_ID
+ii - AWS_SECRET_ACCESS_KEY
+iii - DATABASE_URL
+iv - EMAIL_HOST_PASS
+v - EMAIL_HOST_USER
+vi - SECRET_KEY
+vii - STRIPE_PUBLIC_KEY
+viii - STRIPE_SECRET_KEY
+ix - STRIP_WH_SECRET
+x - USE_AWS
 
 This site can also be deployed by selecting the 'Clone' option from the below GitHub repository.
 
