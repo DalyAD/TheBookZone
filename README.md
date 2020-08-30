@@ -22,49 +22,73 @@ The site is fully responsive down to the smallest screen size of 320px.
 
 All wireframes were made using Balsamiq.
 
+### Index - Desktop
+
 <div align="center">
     <img src="wireframes/index-desktop.png">
 </div>
+
+### Index - Mobile
 
 <div align="center">
     <img src="wireframes/index-mobile.png">
 </div>
 
+### Books - Desktop
+
 <div align="center">
     <img src="wireframes/books-desktop.png">
 </div>
+
+### Books - Mobile
 
 <div align="center">
     <img src="wireframes/books-mobile.png">
 </div>
 
+### Book Detail - Desktop
+
 <div align="center">
     <img src="wireframes/books-detail-desktop.png">
 </div>
+
+### Book Detail - Mobile
 
 <div align="center">
     <img src="wireframes/books-detail-mobile.png">
 </div>
 
+### Cart - Desktop
+
 <div align="center">
     <img src="wireframes/cart-desktop.png">
 </div>
+
+### Cart - Mobile
 
 <div align="center">
     <img src="wireframes/cart-mobile.png">
 </div>
 
+### Checkout - Desktop
+
 <div align="center">
     <img src="wireframes/checkout-desktop.png">
 </div>
+
+### Checkout - Mobile
 
 <div align="center">
     <img src="wireframes/checkout-mobile.png">
 </div>
 
+### Form - Desktop
+
 <div align="center">
     <img src="wireframes/form-desktop.png">
 </div>
+
+### Form - Mobile
 
 <div align="center">
     <img src="wireframes/form-mobile.png">
