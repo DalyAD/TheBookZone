@@ -49,7 +49,7 @@ All wireframes were made using Balsamiq.
 ### Book Detail - Desktop
 
 <div align="center">
-    <img src="wireframes/book-detail-desktop.png">
+    <img src="wireframes/books-detail-desktop.png">
 </div>
 
 ### Book Detail - Mobile
