@@ -1,0 +1,457 @@
+[
+  {
+    "pk": 1,
+    "model": "books.author",
+    "fields": {"name": "Marilynne Robinson"}
+  },
+  {
+    "pk": 2,
+    "model": "books.author",
+    "fields": {"name": "Agatha Christie"}
+  },
+   {
+    "pk": 3,
+    "model": "books.author",
+    "fields": {"name": "Stephen R. Donaldson"}
+  },
+  {
+    "pk": 4,
+    "model": "books.author",
+    "fields": {"name": "Sidney Sheldon"}
+  },
+  {
+    "pk": 5,
+    "model": "books.author",
+    "fields": {"name": "C.S Lewis"}
+  },
+   {
+    "pk": 6,
+    "model": "books.author",
+    "fields": {"name": "Richard Hall"}
+  },
+    {
+    "pk": 7,
+    "model": "books.author",
+    "fields": {"name": "Robin Hobb"}
+  },
+  {
+    "pk": 8,
+    "model": "books.author",
+    "fields": {"name": "Janny Wurts"}
+  },
+   {
+    "pk": 9,
+    "model": "books.author",
+    "fields": {"name": "Terence Hanbury White"}
+  },
+    {
+    "pk": 10,
+    "model": "books.author",
+    "fields": {"name": "Raymond E. Feist"}
+  },
+  {
+    "pk": 11,
+    "model": "books.author",
+    "fields": {"name": "Margaret Weis"}
+  },
+   {
+    "pk": 12,
+    "model": "books.author",
+    "fields": {"name": "Philippa Gregory"}
+  },
+    {
+    "pk": 13,
+    "model": "books.author",
+    "fields": {"name": "Susan Howatch"}
+  },
+  {
+    "pk": 14,
+    "model": "books.author",
+    "fields": {"name": "Patrick O'Brian"}
+  },
+   {
+    "pk": 15,
+    "model": "books.author",
+    "fields": {"name": "Kim Stanley Robinson"}
+  },
+    {
+    "pk": 16,
+    "model": "books.author",
+    "fields": {"name": "Michael Marshall Smith"}
+  },
+  {
+    "pk": 17,
+    "model": "books.author",
+    "fields": {"name": "Tess Gerritsen"}
+  },
+   {
+    "pk": 18,
+    "model": "books.author",
+    "fields": {"name": "Jessica Adams"}
+  },
+    {
+    "pk": 19,
+    "model": "books.author",
+    "fields": {"name": "Joan Didion"}
+  },
+  {
+    "pk": 20,
+    "model": "books.author",
+    "fields": {"name": "Amy Tan"}
+  },
+   {
+    "pk": 21,
+    "model": "books.author",
+    "fields": {"name": "Thomas L. Friedman"}
+  },
+    {
+    "pk": 22,
+    "model": "books.author",
+    "fields": {"name": "Frank McCourt"}
+  },
+  {
+    "pk": 23,
+    "model": "books.author",
+    "fields": {"name": "Mark Haddon"}
+  },
+   {
+    "pk": 24,
+    "model": "books.author",
+    "fields": {"name": "Joan Aiken"}
+  },
+    {
+    "pk": 25,
+    "model": "books.author",
+    "fields": {"name": "Elinor Mary"}
+  },
+  {
+    "pk": 26,
+    "model": "books.author",
+    "fields": {"name": "Peter Straub"}
+  },
+   {
+    "pk": 27,
+    "model": "books.author",
+    "fields": {"name": "J.R.R Tolkien"}
+  },
+    {
+    "pk": 28,
+    "model": "books.author",
+    "fields": {"name": "Jude Fisher"}
+  },
+  {
+    "pk": 29,
+    "model": "books.author",
+    "fields": {"name": "Douglas Coupland"}
+  },
+   {
+    "pk": 30,
+    "model": "books.author",
+    "fields": {"name": "Louis Menand"}
+  },
+    {
+    "pk": 31,
+    "model": "books.author",
+    "fields": {"name": "Ray Bradbury"}
+  },
+  {
+    "pk": 32,
+    "model": "books.author",
+    "fields": {"name": "Diana Wynne Jones"}
+  },
+   {
+    "pk": 33,
+    "model": "books.author",
+    "fields": {"name": "Patricia McCormick"}
+  },
+    {
+    "pk": 34,
+    "model": "books.author",
+    "fields": {"name": "Gary Russell"}
+  },
+  {
+    "pk": 35,
+    "model": "books.author",
+    "fields": {"name": "Garth Nix"}
+  },
+   {
+    "pk": 36,
+    "model": "books.author",
+    "fields": {"name": "Daniel Pinchbeck"}
+  },
+    {
+    "pk": 37,
+    "model": "books.author",
+    "fields": {"name": "Daniel Pinchbeck"}
+  },
+  {
+    "pk": 38,
+    "model": "books.author",
+    "fields": {"name": "Michael Chabon"}
+  },
+   {
+    "pk": 39,
+    "model": "books.author",
+    "fields": {"name": "Carolyn Meyer"}
+  },
+    {
+    "pk": 40,
+    "model": "books.author",
+    "fields": {"name": "Tony Parsons"}
+  },
+  {
+    "pk": 41,
+    "model": "books.author",
+    "fields": {"name": "Jonathan Franzen"}
+  },
+   {
+    "pk": 42,
+    "model": "books.author",
+    "fields": {"name": "Merlin Holland"}
+  },
+    {
+    "pk": 43,
+    "model": "books.author",
+    "fields": {"name": "Dr. Seuss"}
+  },
+  {
+    "pk": 44,
+    "model": "books.author",
+    "fields": {"name": "Tim O'Brien"}
+  },
+   {
+    "pk": 45,
+    "model": "books.author",
+    "fields": {"name": "Louis Sachar"}
+  },
+    {
+    "pk": 46,
+    "model": "books.author",
+    "fields": {"name": "Douglas Coupland"}
+  },
+  {
+    "pk": 47,
+    "model": "books.author",
+    "fields": {"name": "Cecelia Ahern"}
+  },
+   {
+    "pk": 48,
+    "model": "books.author",
+    "fields": {"name": "Edward P. Jones"}
+  },
+    {
+    "pk": 49,
+    "model": "books.author",
+    "fields": {"name": "Robin Sharma"}
+  },
+  {
+    "pk": 50,
+    "model": "books.author",
+    "fields": {"name": "William S. Burroughs"}
+  },
+   {
+    "pk": 51,
+    "model": "books.author",
+    "fields": {"name": "Henry Miller"}
+  },
+    {
+    "pk": 52,
+    "model": "books.author",
+    "fields": {"name": "Annie Proulx"}
+  },
+  {
+    "pk": 53,
+    "model": "books.author",
+    "fields": {"name": "F. Scott Fitzgerald"}
+  },
+   {
+    "pk": 54,
+    "model": "books.author",
+    "fields": {"name": "Evangeline Walton"}
+  },
+    {
+    "pk": 55,
+    "model": "books.author",
+    "fields": {"name": "Ernest Hemingway"}
+  },
+  {
+    "pk": 56,
+    "model": "books.author",
+    "fields": {"name": "George Wilhelm"}
+  },
+   {
+    "pk": 57,
+    "model": "books.author",
+    "fields": {"name": "William Strunk"}
+  },
+    {
+    "pk": 58,
+    "model": "books.author",
+    "fields": {"name": "Philip Wheelwright"}
+  },
+    {
+    "pk": 59,
+    "model": "books.author",
+    "fields": {"name": "Albert Speer"}
+  },
+  {
+    "pk": 60,
+    "model": "books.author",
+    "fields": {"name": "Clarence William Anderson"}
+  },
+   {
+    "pk": 61,
+    "model": "books.author",
+    "fields": {"name": "Edith Unnerstad"}
+  },
+    {
+    "pk": 62,
+    "model": "books.author",
+    "fields": {"name": "Lani Guinier"}
+  },
+  {
+    "pk": 63,
+    "model": "books.author",
+    "fields": {"name": "Aldon D. Morris"}
+  },
+   {
+    "pk": 64,
+    "model": "books.author",
+    "fields": {"name": "Richard E. Neustadt"}
+  },
+    {
+    "pk": 65,
+    "model": "books.author",
+    "fields": {"name": "Jacquelyn Reinach"}
+  },
+  {
+    "pk": 66,
+    "model": "books.author",
+    "fields": {"name": "Wilson Rawls"}
+  },
+   {
+    "pk": 67,
+    "model": "books.author",
+    "fields": {"name": "Avi"}
+  },
+    {
+    "pk": 68,
+    "model": "books.author",
+    "fields": {"name": "Doreen Cronin"}
+  },
+    {
+    "pk": 69,
+    "model": "books.author",
+    "fields": {"name": "Louisa May Alcott"}
+  },
+  {
+    "pk": 70,
+    "model": "books.author",
+    "fields": {"name": "Barry Schwartz"}
+  },
+   {
+    "pk": 71,
+    "model": "books.author",
+    "fields": {"name": "Thomas C. Foster"}
+  },
+    {
+    "pk": 72,
+    "model": "books.author",
+    "fields": {"name": "Terry Pratchett"}
+  },
+  {
+    "pk": 73,
+    "model": "books.author",
+    "fields": {"name": "Peter Watson"}
+  },
+   {
+    "pk": 74,
+    "model": "books.author",
+    "fields": {"name": "Meg Cabot"}
+  },
+    {
+    "pk": 75,
+    "model": "books.author",
+    "fields": {"name": "Aldous Huxley"}
+  },
+  {
+    "pk": 76,
+    "model": "books.author",
+    "fields": {"name": "James Shapiro"}
+  },
+   {
+    "pk": 77,
+    "model": "books.author",
+    "fields": {"name": "Marian Keyes"}
+  },
+    {
+    "pk": 78,
+    "model": "books.author",
+    "fields": {"name": "Michael Crichton"}
+  },
+    {
+    "pk": 79,
+    "model": "books.author",
+    "fields": {"name": "Milan Kundera"}
+  },
+  {
+    "pk": 80,
+    "model": "books.author",
+    "fields": {"name": "Peggy Parish"}
+  },
+   {
+    "pk": 81,
+    "model": "books.author",
+    "fields": {"name": "Clive Barker"}
+  },
+    {
+    "pk": 82,
+    "model": "books.author",
+    "fields": {"name": "Paulo Coelho"}
+  },
+  {
+    "pk": 83,
+    "model": "books.author",
+    "fields": {"name": "John Gray"}
+  },
+   {
+    "pk": 84,
+    "model": "books.author",
+    "fields": {"name": "Julie Andrews Edwards"}
+  },
+    {
+    "pk": 85,
+    "model": "books.author",
+    "fields": {"name": "Jamie Lee Curtis"}
+  },
+  {
+    "pk": 86,
+    "model": "books.author",
+    "fields": {"name": "Shel Silverstein"}
+  },
+   {
+    "pk": 87,
+    "model": "books.author",
+    "fields": {"name": "Amy Cotler"}
+  },
+    {
+    "pk": 88,
+    "model": "books.author",
+    "fields": {"name": "William Anderson"}
+  },
+    {
+    "pk": 89,
+    "model": "books.author",
+    "fields": {"name": "Robin Quivers"}
+  },
+  {
+    "pk": 90,
+    "model": "books.author",
+    "fields": {"name": "Mary Stewart"}
+  },
+    {
+    "pk": 91,
+    "model": "books.author",
+    "fields": {"name": "Barbara Kingsolver"}
+  }
+]
