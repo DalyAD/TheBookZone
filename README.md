@@ -1,6 +1,6 @@
 # The Book Zone
 
-https://thebookzone.herokuapp.com//
+https://thebookzone.herokuapp.com/
 
 Welcome to the site and I hope you enjoy it. I created this site as a follow-on from my previous milestone project at https://ms3-community-books.herokuapp.com//
 
